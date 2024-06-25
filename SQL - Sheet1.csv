@@ -1,0 +1,70 @@
+ChannelName,Category,Subscribers,TotalViews,LongVideoCount,ShortVideoCount,JoinedYear,PlayButton
+TechGuru,Technology,"1,200,000","150,000,000",400,100,2015,Gold
+CookingMaster,Food & Cooking,"800,000","100,000,000",250,50,2017,Silver
+TravelVibes,Travel,"1,500,000","200,000,000",350,50,2016,Gold
+FitnessFreak,Fitness,"1,000,000","80,000,000",150,50,2018,Silver
+ComedyCentral,Comedy,"2,500,000","300,000,000",500,100,2014,Gold
+GamingLegends,Gaming,"3,000,000","500,000,000",700,100,2013,Gold
+BeautyBlogger,Beauty,"1,800,000","150,000,000",300,100,2016,Gold
+DIYCrafts,DIY & Crafts,"900,000","100,000,000",200,50,2019,Silver
+MusicMania,Music,"2,000,000","400,000,000",600,100,2015,Gold
+ScienceExplorers,Science,"1,300,000","120,000,000",250,100,2017,Gold
+FashionForward,Fashion,"1,700,000","200,000,000",400,100,2015,Gold
+PetParadise,Pets & Animals,"1,100,000","90,000,000",250,50,2018,Gold
+ArtisticExpressions,Art & Design,"800,000","70,000,000",150,50,2019,Silver
+MovieManiacs,Movies,"1,400,000","150,000,000",300,100,2016,Gold
+Bookworms,Books,"600,000","50,000,000",100,50,2020,Silver
+HistoryHaven,History,"1,200,000","100,000,000",250,50,2017,Gold
+TechTalks,Technology,"1,600,000","180,000,000",400,100,2016,Gold
+FoodFusion,Food & Cooking,"1,000,000","120,000,000",300,50,2018,Silver
+Wanderlust,Travel,"900,000","100,000,000",200,50,2019,Silver
+TechTips,Technology,"1,100,000","130,000,000",350,50,2017,Gold
+HealthyEats,Food & Cooking,"700,000","90,000,000",200,50,2019,Silver
+ExploreWorld,Travel,"1,800,000","250,000,000",500,100,2016,Gold
+WorkoutWarriors,Fitness,"1,300,000","100,000,000",300,50,2018,Gold
+StandUpLaughs,Comedy,"3,200,000","400,000,000",700,100,2015,Gold
+eSportsEmpire,Gaming,"3,500,000","600,000,000",900,200,2012,Gold
+GlamGoddess,Beauty,"2,000,000","180,000,000",400,100,2017,Gold
+CreativeCrafters,DIY & Crafts,"1,000,000","120,000,000",250,50,2018,Silver
+MelodyMakers,Music,"2,500,000","450,000,000",800,100,2014,Gold
+DiscoverScience,Science,"1,600,000","150,000,000",400,100,2017,Gold
+FashionistaFaves,Fashion,"1,900,000","220,000,000",450,100,2016,Gold
+PetPals,Pets & Animals,"1,400,000","110,000,000",300,100,2018,Gold
+ArtisticAdventures,Art & Design,"1,100,000","100,000,000",250,50,2019,Gold
+MovieMania,Movies,"2,200,000","300,000,000",600,200,2015,Gold
+BookLovers,Books,"800,000","70,000,000",150,50,2021,Silver
+AncientHistory,History,"1,300,000","120,000,000",300,100,2018,Gold
+TechTalk,Technology,"1,700,000","180,000,000",400,150,2017,Gold
+TasteBuds,Food & Cooking,"1,300,000","150,000,000",350,100,2019,Gold
+GlobalExplorer,Travel,"2,000,000","250,000,000",500,150,2016,Gold
+FitFam,Fitness,"1,600,000","120,000,000",300,100,2017,Gold
+LaughterLounge,Comedy,"3,000,000","400,000,000",700,200,2014,Gold
+eSportsElite,Gaming,"3,800,000","700,000,000",1000,200,2013,Gold
+BeautyBlast,Beauty,"2,500,000","200,000,000",500,150,2016,Gold
+CraftyCreations,DIY & Crafts,"1,200,000","100,000,000",250,100,2020,Gold
+HarmonyHits,Music,"2,800,000","500,000,000",800,200,2014,Gold
+ScienceSavvy,Science,"1,800,000","180,000,000",400,150,2016,Gold
+StyleStar,Fashion,"2,200,000","250,000,000",500,200,2015,Gold
+AnimalAntics,Pets & Animals,"1,500,000","100,000,000",300,100,2018,Gold
+DesignDuo,Art & Design,"1,000,000","80,000,000",200,50,2020,Silver
+SilverScreenSpectacle,Movies,"2,000,000","200,000,000",400,150,2017,Gold
+TechTrends,Technology,"1,300,000","160,000,000",400,100,2016,Gold
+CulinaryCreations,Food & Cooking,"900,000","110,000,000",250,50,2018,Silver
+WanderLuxe,Travel,"1,700,000","220,000,000",450,100,2015,Gold
+FitFusion,Fitness,"1,200,000","90,000,000",200,50,2019,Gold
+ComedyCorner,Comedy,"2,800,000","350,000,000",600,200,2013,Gold
+GamingGalaxy,Gaming,"4,000,000","800,000,000",1000,300,2012,Gold
+BeautyBuzz,Beauty,"2,200,000","180,000,000",400,150,2017,Gold
+CraftyCreatures,DIY & Crafts,"1,100,000","100,000,000",250,100,2020,Gold
+MelodyMood,Music,"2,600,000","500,000,000",700,200,2014,Gold
+ScienceSpectrum,Science,"1,900,000","200,000,000",450,150,2016,Gold
+FashionFiesta,Fashion,"2,300,000","250,000,000",500,200,2015,Gold
+AnimalAdventures,Pets & Animals,"1,600,000","120,000,000",300,100,2018,Gold
+ArtisticAvenue,Art & Design,"1,100,000","90,000,000",200,50,2020,Gold
+CinephileCentral,Movies,"2,100,000","200,000,000",400,150,2017,Gold
+TechTutorials,Technology,"1,400,000","170,000,000",400,100,2016,Gold
+FlavorFusion,Food & Cooking,"1,000,000","130,000,000",300,100,2018,Silver
+AdventureSeekers,Travel,"1,800,000","250,000,000",500,150,2015,Gold
+BodyBlast,Fitness,"1,500,000","110,000,000",250,100,2019,Gold
+LaughLounge,Comedy,"3,200,000","400,000,000",700,200,2014,Gold
+GamingGenius,Gaming,"4,200,000","900,000,000",1000,300,2012,Gold
