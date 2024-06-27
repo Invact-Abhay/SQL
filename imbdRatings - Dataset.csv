@@ -1,0 +1,68 @@
+imdb_id,title,genre,show,release_year,age_certification,runtime,imdb_score,imdb_votes
+tt0012,ABtalks,Documentary,SERIES,2018,TV-PG,68,9.6,7
+tt0013,100 Days My Prince,Romance,SERIES,2018,TV-14,75,7.8,1938
+tt0014,100 Humans: Life's Questions. Answered.,Documentary,SERIES,2020,TV-14,37,5.7,3958
+tt0015,13 Reasons Why,Drama,SERIES,2017,TV-MA,58,7.5,282373
+tt0016,13 Reasons Why: Beyond the Reasons,Documentary,SERIES,2017,TV-MA,42,6.2,322
+tt0017,137 Shots,Documentary,MOVIE,2021,R,104,6.2,767
+tt0018,1898: Our Last Men in the Philippines,Drama,MOVIE,2016,PG-13,130,6.5,3281
+tt0019,2 Hearts,Drama,MOVIE,2020,PG-13,100,6.2,3365
+tt0020,2 States,Drama,MOVIE,2014,PG,149,6.9,25344
+tt0021,20 Minutes,Drama,SERIES,2013,TV-MA,45,7.3,1681
+tt0022,21 Again,Drama,SERIES,2019,TV-MA,52,5.4,47
+tt0023,21 Bridges,Action,MOVIE,2019,R,99,6.6,64117
+tt0024,28 Faces of the Moon,Documentary,SERIES,2016,TV-14,18,6.4,25
+tt0025,3 Idiots,Comedy,MOVIE,2009,PG-13,170,8.4,385782
+tt0026,3 Ninjas Kick Back,Action,MOVIE,1994,PG,93,4.5,9208
+tt0027,30 Rock,Comedy,SERIES,2006,TV-14,25,8.3,121514
+tt0028,3Below: Tales of Arcadia,Animation,SERIES,2018,TV-Y7,22,7.7,5927
+tt0029,44 Cats,Animation,SERIES,2018,TV-Y7,15,6.1,283
+tt0030,45 RPM,Drama,SERIES,2019,TV-MA,57,7.2,497
+tt0031,4K Fireplace,Reality-TV,MOVIE,2015,G,181,7.7,48
+tt0032,50M2,Action,SERIES,2021,TV-MA,49,6.9,5516
+tt0033,6 Bullets,Action,MOVIE,2012,R,115,6,14898
+tt0034,6 Underground,Action,MOVIE,2019,R,127,6.1,168919
+tt0035,60 Days In,Documentary,SERIES,2016,TV-14,46,7.6,2616
+tt0036,7 Days Out,Reality-TV,SERIES,2018,TV-PG,50,6.8,531
+tt0037,7 Prisoners,Drama,MOVIE,2021,R,93,7.1,6444
+tt0038,72 Dangerous Animals: Asia,Documentary,SERIES,2018,TV-14,47,6.6,517
+tt0039,72 Dangerous Places to Live,Documentary,SERIES,2016,TV-PG,49,6.2,344
+tt0040,Little Hearts,Drama,MOVIE,2016,PG-13,118,5.6,220
+tt0041,7SEEDS,Animation,SERIES,2019,TV-MA,25,6.3,1378
+tt0042,800 Meters,Drama,SERIES,2022,TV-MA,52,6.9,459
+tt0043,A Babysitter's Guide to Monster Hunting,Adventure,MOVIE,2020,PG,94,5.4,4067
+tt0044,A Bad Moms Christmas,Comedy,MOVIE,2017,R,104,5.6,49478
+tt0045,A Boy Called Christmas,Adventure,MOVIE,2021,PG,106,6.7,20838
+tt0046,A Boy Named Flora A,Drama,SERIES,2017,TV-MA,89,7.9,314
+tt0047,A California Christmas,Romance,MOVIE,2020,PG-13,106,5.8,9721
+tt0048,A California Christmas: City Lights,Romance,MOVIE,2021,PG-13,105,5.5,2231
+tt0049,A Champion Heart,Drama,MOVIE,2018,G,90,5.9,395
+tt0050,A Chaster Marriage,Comedy,MOVIE,2016,PG-13,93,5.4,874
+tt0051,A Christmas Prince,Comedy,MOVIE,2017,PG,92,5.7,19456
+tt0052,A Christmas Prince: The Royal Wedding,Comedy,MOVIE,2018,PG,101,5.3,10658
+tt0053,A Cinderella Story,Comedy,MOVIE,2004,PG,95,5.9,86395
+tt0054,A Cop Movie,Action,MOVIE,2021,R,107,7,1626
+tt0055,A Fairly Odd Summer,Animation,MOVIE,2014,G,68,4,533
+tt0056,A Family,Drama,MOVIE,2021,R,136,7,2158
+tt0057,A Go! Go! Cory Carson Halloween,Animation,MOVIE,2020,G,21,6.3,52
+tt0058,A Haunted House 2,Comedy,MOVIE,2014,R,86,4.6,21514
+tt0059,A House of Blocks,Reality-TV,SERIES,2017,TV-MA,84,2.3,137
+tt0060,A Korean Odyssey,Drama,SERIES,2017,TV-MA,75,8,4535
+tt0061,A Little Help with Carol Burnett,Comedy,SERIES,2018,TV-G,34,6.3,233
+tt0062,A Love So Beautiful,Romance,SERIES,2017,TV-14,41,8,1386
+tt0063,A Monster Calls,Drama,MOVIE,2016,PG-13,108,7.5,86614
+tt0064,Dark Night,Horror,MOVIE,1984,R,91,7.4,230543
+tt0065,A Nightmare on Elm Street,Horror,MOVIE,2010,R,95,5.2,99192
+tt0066,A Perfect Day for Arsenide,Sci-Fi,SERIES,2020,TV-MA,23,5,16
+tt0067,A Princess for Christmas,Comedy,MOVIE,2011,PG,89,6.3,8222
+tt0068,A Remarkable Tale,Adventure,MOVIE,2019,PG,93,5.3,1159
+tt0069,A River Runs Through It,Drama,MOVIE,1992,PG,123,7.2,59086
+tt0070,A Second Chance: Rivals!,Drama,MOVIE,2019,PG,89,4.7,375
+tt0071,A Series of Unfortunate Events,Adventure,SERIES,2017,TV-PG,47,7.8,59239
+tt0072,A Shaun the Sheep Movie: Farmageddon,Animation,MOVIE,2019,G,87,6.8,13267
+tt0073,A Silent Voice: The Movie,Animation,MOVIE,2016,PG-13,130,8.1,75132
+tt0074,A Tale Dark & Grimm,Animation,SERIES,2021,TV-Y7,31,7.3,1193
+tt0075,A Touch of Green,Drama,SERIES,2015,TV-MA,46,8.4,314
+tt0076,A Trash Truck Christmas,Animation,MOVIE,2020,G,28,5.5,212
+tt0077,A Very Country Christmas,Romance,MOVIE,2017,G,83,6,1622
+tt0078,A Very Harold & Kumar Christmas,Adventure,MOVIE,2011,R,108,6.2,69241
