@@ -1,0 +1,500 @@
+OrderID,Course,Salesperson,OrderYear,OrderMonth,Region,State,CourseMode,CourseFee,GST,Discount,NetSales
+ED10125,UPSC,Chiranjit Ghosh,2016,November,North,Uttar Pradesh,Offline,35000,6300,3115,38185
+ED10126,UPSC,Nandini Sharma,2016,November,South,Andhra Pradesh,Offline,40000,7200,10680,36520
+ED10127,UPSC,Kartik Soren,2016,June,East,Bihar,Offline,40000,7200,10680,36520
+ED10128,Pre Classes,Divya Mahto,2015,October,West,Gujarat,Offline,5000,900,445,5455
+ED10129,Pre Classes,Indrajit Sharma,2015,October,Northeast,Arunachal Pradesh,Online ,10000,1800,1780,10020
+ED10130,UPSC,Udita Chatterjee,2014,June,North,Jammu and Kashmir,Online ,40000,7200,1780,45420
+ED10131,UPSC,Omkar Mishra,2014,June,South,Telangana,Offline,35000,6300,3115,38185
+ED10132,Plus 2 Classes,Bina Rai,2014,June,East,West Bengal,Offline,25000,4500,1113,28388
+ED10133,Plus 2 Classes,Prabhat Ranjan,2014,June,West,Maharashtra,Offline,35000,6300,3115,38185
+ED10134,Secondary classes,Bishakha Mukherjee,2014,June,Northeast,Assam,Online ,12000,2160,534,13626
+ED10135,UPSC,Prabhat Ranjan,2014,June,North,Punjab,Offline,40000,7200,7120,40080
+ED10136,Pre Classes,Zeenat Kaur,2014,June,South,Tamil Nadu,Offline,10000,1800,1780,10020
+ED10137,Pre Classes,Utpal Ghoshal,2017,April,East,Odisha,Offline,10000,1800,1780,10020
+ED10138,UPSC,Sampurna Das,2016,December,West,Rajasthan,Online ,40000,7200,1780,45420
+ED10139,Secondary classes,Ipsita Saikia,2015,November,Northeast,Nagaland,Offline,12000,2160,534,13626
+ED10140,Plus 2 Classes,Nikhil Yadav,2015,November,North,Delhi,Offline,35000,6300,9345,31955
+ED10141,Pre Classes,Ojaswini Thakur,2014,November,South,Kerala,Online ,5000,900,890,5010
+ED10142,UPSC,Oindrila Sen,2014,May,East,Jharkhand,Online ,35000,6300,9345,31955
+ED10143,UPSC,Pranabjyoti Bhuyan,2014,August,West,Goa,Offline,40000,7200,7120,40080
+ED10144,Secondary classes,Waman Thakur,2014,August,Northeast,Meghalaya,Online ,7000,1260,1869,6391
+ED10145,Secondary classes,Zubin Mahanta,2014,August,North,Himachal Pradesh,Offline,12000,2160,1068,13092
+ED10146,Plus 2 Classes,Ranjit Barman,2016,December,South,Karnataka,Offline,35000,6300,1558,39743
+ED10147,UPSC,Zaara Banik,2016,December,East,Bihar,Online ,35000,6300,9345,31955
+ED10148,UPSC,Kaushik Rai,2017,July,West,Gujarat,Online ,40000,7200,1780,45420
+ED10149,Secondary classes,Quadir Ahmed Khan,2015,September,Northeast,Arunachal Pradesh,Online ,12000,2160,1068,13092
+ED10150,Plus 2 Classes,Gourav Chatterjee,2016,January,North,Jammu and Kashmir,Offline,35000,6300,3115,38185
+ED10151,Plus 2 Classes,Divya Mahto,2016,January,South,Telangana,Online ,35000,6300,1558,39743
+ED10152,Plus 2 Classes,Xitij Borah,2015,September,East,West Bengal,Offline,25000,4500,4450,25050
+ED10153,Plus 2 Classes,Waman Thakur,2015,September,West,Maharashtra,Offline,25000,4500,2225,27275
+ED10154,Pre Classes,Tapan Sarkar,2015,September,Northeast,Assam,Online ,10000,1800,2670,9130
+ED10155,Secondary classes,Hemangini Roy,2015,September,North,Punjab,Offline,7000,1260,1869,6391
+ED10156,Plus 2 Classes,Gautam Thapa,2015,September,South,Tamil Nadu,Online ,35000,6300,9345,31955
+ED10157,Plus 2 Classes,Divya Mahto,2015,September,East,Odisha,Offline,25000,4500,6675,22825
+ED10158,Secondary classes,Nabakanta Das,2015,September,West,Rajasthan,Online ,7000,1260,1246,7014
+ED10159,Secondary classes,Aritra Banerjee,2017,October,Northeast,Tripura,Online ,12000,2160,2136,12024
+ED10160,Pre Classes,Jyotsna Singh,2016,December,North,Uttar Pradesh,Online ,10000,1800,1780,10020
+ED10161,Plus 2 Classes,Utpal Ghoshal,2016,December,South,Karnataka,Offline,25000,4500,4450,25050
+ED10162,Secondary classes,Xyla Singh,2015,December,East,Bihar,Offline,12000,2160,2136,12024
+ED10163,Plus 2 Classes,Tanusree Chakraborty,2015,December,West,Gujarat,Offline,35000,6300,1558,39743
+ED10164,Plus 2 Classes,Nandini Sharma,2015,December,Northeast,Mizoram,Offline,25000,4500,1113,28388
+ED10165,Secondary classes,Qamar Raza,2015,December,North,Delhi,Offline,12000,2160,534,13626
+ED10166,Plus 2 Classes,Bishakha Mukherjee,2017,September,South,Kerala,Offline,35000,6300,6230,35070
+ED10167,Plus 2 Classes,Manoj Singh,2016,July,East,Jharkhand,Offline,35000,6300,3115,38185
+ED10168,Plus 2 Classes,Bina Rai,2017,September,West,Goa,Offline,25000,4500,2225,27275
+ED10169,UPSC,Quddus Ahmed,2016,March,Northeast,Manipur,Offline,40000,7200,3560,43640
+ED10170,Pre Classes,Zeenat Kaur,2016,March,North,Himachal Pradesh,Offline,5000,900,223,5678
+ED10171,Pre Classes,Dipanjana Sharma,2014,October,South,Karnataka,Offline,5000,900,445,5455
+ED10172,Plus 2 Classes,Umaima Rahman,2016,June,East,Bihar,Online ,25000,4500,6675,22825
+ED10173,Pre Classes,Hemanta Singh,2016,June,West,Gujarat,Offline,10000,1800,890,10910
+ED10174,Plus 2 Classes,Varunika Sen,2015,April,Northeast,Nagaland,Offline,25000,4500,6675,22825
+ED10175,Pre Classes,Zaara Banik,2015,April,North,Jammu and Kashmir,Offline,5000,900,223,5678
+ED10176,Pre Classes,Prabhat Ranjan,2015,April,South,Telangana,Offline,10000,1800,890,10910
+ED10177,UPSC,Zubin Mahanta,2015,April,East,West Bengal,Offline,40000,7200,3560,43640
+ED10178,Plus 2 Classes,Chiranjit Ghosh,2016,December,West,Maharashtra,Online ,35000,6300,1558,39743
+ED10179,Plus 2 Classes,Gourav Chatterjee,2016,December,Northeast,Assam,Online ,25000,4500,4450,25050
+ED10180,Pre Classes,Lalita Khanna,2016,June,North,Punjab,Online ,10000,1800,1780,10020
+ED10181,Plus 2 Classes,Aditya Prasad,2016,June,South,Tamil Nadu,Online ,35000,6300,3115,38185
+ED10182,Plus 2 Classes,Chandan Singhania,2016,June,East,Odisha,Online ,35000,6300,6230,35070
+ED10183,Pre Classes,Sapna Chakraborty,2016,June,West,Rajasthan,Online ,10000,1800,890,10910
+ED10184,Pre Classes,Eshita Raj,2016,June,Northeast,Mizoram,Offline,10000,1800,445,11355
+ED10185,Secondary classes,Jyotsna Singh,2016,June,North,Delhi,Offline,12000,2160,534,13626
+ED10186,Secondary classes,Firoz Hussain,2016,June,South,Kerala,Offline,7000,1260,312,7949
+ED10187,Secondary classes,Eklavya Sinha,2015,November,East,Jharkhand,Online ,12000,2160,1068,13092
+ED10188,Plus 2 Classes,Madhavi Mukhopadhyay,2015,November,West,Goa,Offline,25000,4500,6675,22825
+ED10189,UPSC,Jyotirmoy Deb,2015,November,Northeast,Meghalaya,Offline,40000,7200,1780,45420
+ED10190,UPSC,Sanjeev Prakash,2015,November,North,Uttarakhand,Offline,40000,7200,3560,43640
+ED10191,Plus 2 Classes,Gourav Chatterjee,2015,April,South,Andhra Pradesh,Offline,35000,6300,6230,35070
+ED10192,Plus 2 Classes,Mitali Rai,2014,December,East,Bihar,Offline,35000,6300,9345,31955
+ED10193,Secondary classes,Gaurav Jha,2014,December,West,Gujarat,Online ,7000,1260,1246,7014
+ED10194,Secondary classes,Divya Mahto,2016,June,Northeast,Arunachal Pradesh,Offline,12000,2160,3204,10956
+ED10195,Plus 2 Classes,Yashika Das,2016,September,North,Jammu and Kashmir,Offline,25000,4500,4450,25050
+ED10196,Pre Classes,Debopriya Datta,2017,September,South,Telangana,Online ,5000,900,890,5010
+ED10197,Pre Classes,Firoz Hussain,2015,April,East,West Bengal,Online ,5000,900,223,5678
+ED10198,Pre Classes,Vedika Singh,2015,April,West,Maharashtra,Offline,5000,900,890,5010
+ED10199,Secondary classes,Jyotsna Singh,2015,April,Northeast,Assam,Offline,12000,2160,3204,10956
+ED10200,Pre Classes,Jhilmil Devi,2017,December,North,Punjab,Online ,10000,1800,2670,9130
+ED10201,Pre Classes,Kaushik Rai,2017,December,South,Tamil Nadu,Offline,5000,900,1335,4565
+ED10202,Plus 2 Classes,Komal Mishra,2017,December,East,Odisha,Online ,35000,6300,6230,35070
+ED10203,UPSC,Chiranjit Ghosh,2014,November,West,Rajasthan,Online ,40000,7200,10680,36520
+ED10204,Secondary classes,Bhaskar Barua,2016,June,Northeast,Nagaland,Offline,7000,1260,623,7637
+ED10205,UPSC,Chandan Kumar,2016,June,North,Delhi,Online ,35000,6300,6230,35070
+ED10206,UPSC,Chandan Singhania,2014,October,South,Kerala,Online ,35000,6300,1558,39743
+ED10207,UPSC,Zeenat Kaur,2014,October,East,Jharkhand,Offline,35000,6300,6230,35070
+ED10208,UPSC,Faisal Khan,2015,September,West,Goa,Online ,35000,6300,1558,39743
+ED10209,Pre Classes,Himani Verma,2017,November,Northeast,Meghalaya,Offline,5000,900,445,5455
+ED10210,Secondary classes,Xitij Borah,2017,May,North,Himachal Pradesh,Online ,12000,2160,3204,10956
+ED10211,Pre Classes,Utpal Ghoshal,2017,October,South,Karnataka,Online ,5000,900,445,5455
+ED10212,UPSC,Joydeep Basu,2017,October,East,Bihar,Online ,40000,7200,3560,43640
+ED10213,UPSC,Hiralal Pandey,2016,April,West,Gujarat,Offline,40000,7200,10680,36520
+ED10214,UPSC,Ranjit Barman,2016,September,Northeast,Arunachal Pradesh,Online ,40000,7200,7120,40080
+ED10215,UPSC,Komal Mishra,2016,September,North,Jammu and Kashmir,Offline,35000,6300,6230,35070
+ED10216,Secondary classes,Manoj Singh,2016,September,South,Telangana,Online ,7000,1260,312,7949
+ED10217,Pre Classes,Farida Ansari,2015,January,East,West Bengal,Offline,5000,900,890,5010
+ED10218,Plus 2 Classes,Writam Chatterjee,2015,January,West,Maharashtra,Online ,35000,6300,1558,39743
+ED10219,Plus 2 Classes,Jyotirmoy Deb,2015,January,Northeast,Assam,Offline,25000,4500,4450,25050
+ED10220,Secondary classes,Vedika Singh,2017,November,North,Punjab,Online ,7000,1260,312,7949
+ED10221,Plus 2 Classes,Divya Mahto,2017,November,South,Tamil Nadu,Offline,25000,4500,1113,28388
+ED10222,Plus 2 Classes,Ritu Rajput,2017,June,East,Odisha,Online ,35000,6300,9345,31955
+ED10223,Secondary classes,Waman Thakur,2016,September,West,Rajasthan,Offline,12000,2160,2136,12024
+ED10224,Pre Classes,Mitali Rai,2016,August,Northeast,Tripura,Offline,10000,1800,1780,10020
+ED10225,Secondary classes,Fahmida Rahman,2016,August,North,Uttar Pradesh,Online ,7000,1260,1869,6391
+ED10226,Pre Classes,Chandan Singhania,2016,August,South,Karnataka,Offline,10000,1800,445,11355
+ED10227,Pre Classes,Chandan Singhania,2016,December,East,Bihar,Offline,5000,900,1335,4565
+ED10228,Pre Classes,Saurabh Tiwari,2015,November,West,Gujarat,Offline,10000,1800,2670,9130
+ED10229,Plus 2 Classes,Hemangini Roy,2015,November,Northeast,Mizoram,Online ,35000,6300,9345,31955
+ED10230,Secondary classes,Zubin Mahanta,2015,November,North,Delhi,Offline,7000,1260,1869,6391
+ED10231,UPSC,Xyla Singh,2017,November,South,Kerala,Online ,40000,7200,10680,36520
+ED10232,UPSC,Debopriya Datta,2017,November,East,Jharkhand,Offline,35000,6300,9345,31955
+ED10233,Plus 2 Classes,Kaushik Rai,2017,November,West,Goa,Offline,25000,4500,6675,22825
+ED10234,UPSC,Indrajit Sharma,2015,October,Northeast,Manipur,Online ,40000,7200,7120,40080
+ED10235,Secondary classes,Waman Thakur,2017,December,North,Uttar Pradesh,Offline,12000,2160,534,13626
+ED10236,Secondary classes,Pranabjyoti Bhuyan,2016,November,South,Andhra Pradesh,Offline,7000,1260,1246,7014
+ED10237,Secondary classes,Anirudh Tripathi,2016,November,East,Bihar,Offline,12000,2160,3204,10956
+ED10238,Pre Classes,Udita Chatterjee,2014,August,West,Gujarat,Offline,10000,1800,445,11355
+ED10239,Plus 2 Classes,Hemangini Roy,2014,August,Northeast,Arunachal Pradesh,Online ,25000,4500,1113,28388
+ED10240,Plus 2 Classes,Qazi Ali,2014,August,North,Jammu and Kashmir,Online ,35000,6300,9345,31955
+ED10241,Pre Classes,Faisal Khan,2014,August,South,Telangana,Online ,10000,1800,890,10910
+ED10242,Plus 2 Classes,Sampurna Das,2015,March,East,West Bengal,Online ,25000,4500,2225,27275
+ED10243,Pre Classes,Ipsita Saikia,2015,April,West,Maharashtra,Offline,5000,900,890,5010
+ED10244,Plus 2 Classes,Ujjwal Kumar,2016,June,Northeast,Assam,Online ,25000,4500,2225,27275
+ED10245,Secondary classes,Kartik Soren,2016,June,North,Punjab,Online ,7000,1260,1869,6391
+ED10246,Pre Classes,Writabrata Das,2016,June,South,Tamil Nadu,Online ,10000,1800,445,11355
+ED10247,Pre Classes,Gourav Chatterjee,2016,June,East,Odisha,Offline,10000,1800,890,10910
+ED10248,UPSC,Vijaylakshmi Thakur,2016,June,West,Rajasthan,Online ,40000,7200,1780,45420
+ED10249,UPSC,Anirudh Tripathi,2014,December,Northeast,Nagaland,Online ,40000,7200,3560,43640
+ED10250,Plus 2 Classes,Manjula Kalita,2014,September,North,Delhi,Offline,25000,4500,1113,28388
+ED10251,Pre Classes,Sapna Chakraborty,2017,November,South,Kerala,Online ,5000,900,445,5455
+ED10252,Pre Classes,Divya Mahto,2017,November,East,Jharkhand,Offline,5000,900,445,5455
+ED10253,Secondary classes,Kaushik Rai,2016,November,West,Goa,Offline,12000,2160,2136,12024
+ED10254,Pre Classes,Aditya Prasad,2016,November,Northeast,Meghalaya,Online ,10000,1800,890,10910
+ED10255,UPSC,Hiralal Pandey,2017,February,North,Himachal Pradesh,Online ,40000,7200,7120,40080
+ED10256,Plus 2 Classes,Sampurna Das,2017,February,South,Karnataka,Online ,25000,4500,6675,22825
+ED10257,UPSC,Lakshmi Hazarika,2017,February,East,Bihar,Online ,40000,7200,1780,45420
+ED10258,Secondary classes,Joydeep Basu,2016,October,West,Gujarat,Online ,7000,1260,1869,6391
+ED10259,UPSC,Zaara Banik,2016,October,Northeast,Arunachal Pradesh,Online ,35000,6300,1558,39743
+ED10260,Pre Classes,Qamar Raza,2016,October,North,Jammu and Kashmir,Online ,5000,900,223,5678
+ED10261,Plus 2 Classes,Gaurav Jha,2016,October,South,Telangana,Online ,25000,4500,2225,27275
+ED10262,UPSC,Mitali Rai,2016,October,East,West Bengal,Online ,40000,7200,7120,40080
+ED10263,Secondary classes,Utpal Ghoshal,2016,October,West,Maharashtra,Online ,7000,1260,312,7949
+ED10264,Plus 2 Classes,Faisal Khan,2016,October,Northeast,Assam,Offline,35000,6300,1558,39743
+ED10265,Secondary classes,Bina Rai,2016,September,North,Punjab,Online ,12000,2160,534,13626
+ED10266,Pre Classes,Chandan Kumar,2017,September,South,Tamil Nadu,Online ,10000,1800,2670,9130
+ED10267,UPSC,Umaima Rahman,2017,September,East,Odisha,Offline,40000,7200,7120,40080
+ED10268,Plus 2 Classes,Bishakha Mukherjee,2017,September,West,Rajasthan,Offline,25000,4500,1113,28388
+ED10269,UPSC,Aditya Prasad,2017,December,Northeast,Tripura,Online ,40000,7200,1780,45420
+ED10270,Plus 2 Classes,Chandan Singhania,2015,September,North,Uttar Pradesh,Online ,25000,4500,6675,22825
+ED10271,UPSC,Xenia Chakrabarti,2014,October,South,Karnataka,Offline,35000,6300,6230,35070
+ED10272,Secondary classes,Gopal Verma,2016,December,East,Bihar,Offline,7000,1260,312,7949
+ED10273,UPSC,Vedika Singh,2016,December,West,Gujarat,Online ,35000,6300,9345,31955
+ED10274,UPSC,Rohini Tiwari,2016,December,Northeast,Mizoram,Offline,40000,7200,7120,40080
+ED10275,Pre Classes,Lakshmi Hazarika,2016,December,North,Delhi,Offline,10000,1800,890,10910
+ED10276,Secondary classes,Faisal Khan,2016,March,South,Kerala,Offline,12000,2160,3204,10956
+ED10277,Pre Classes,Lakshmi Hazarika,2016,March,East,Jharkhand,Offline,5000,900,890,5010
+ED10278,Plus 2 Classes,Vedika Singh,2015,May,West,Goa,Online ,25000,4500,6675,22825
+ED10279,Plus 2 Classes,Oindrila Sen,2015,May,Northeast,Manipur,Offline,35000,6300,3115,38185
+ED10280,Secondary classes,Divya Mahto,2015,May,North,Himachal Pradesh,Offline,7000,1260,312,7949
+ED10281,Secondary classes,Bishakha Mukherjee,2015,May,South,Karnataka,Online ,7000,1260,623,7637
+ED10282,Pre Classes,Eklavya Sinha,2014,March,East,Bihar,Offline,10000,1800,890,10910
+ED10283,UPSC,Himani Verma,2016,November,West,Gujarat,Online ,35000,6300,1558,39743
+ED10284,Plus 2 Classes,Udita Chatterjee,2016,November,Northeast,Nagaland,Offline,35000,6300,1558,39743
+ED10285,Pre Classes,Gaurav Jha,2016,May,North,Jammu and Kashmir,Online ,10000,1800,890,10910
+ED10286,Plus 2 Classes,Xenia Chakrabarti,2015,December,South,Telangana,Offline,25000,4500,6675,22825
+ED10287,Plus 2 Classes,Xitij Borah,2016,November,East,West Bengal,Offline,25000,4500,2225,27275
+ED10288,Pre Classes,Nandita Roy,2016,November,West,Maharashtra,Online ,10000,1800,1780,10020
+ED10289,Plus 2 Classes,Zaara Banik,2014,September,Northeast,Assam,Offline,25000,4500,2225,27275
+ED10290,Secondary classes,Bhaskar Barua,2014,September,North,Punjab,Offline,12000,2160,2136,12024
+ED10291,UPSC,Vijaylakshmi Thakur,2014,September,South,Tamil Nadu,Online ,40000,7200,1780,45420
+ED10292,Pre Classes,Eklavya Sinha,2014,September,East,Odisha,Online ,10000,1800,445,11355
+ED10293,Plus 2 Classes,Bishakha Mukherjee,2014,September,West,Rajasthan,Offline,35000,6300,1558,39743
+ED10294,Pre Classes,Ipsita Saikia,2014,September,Northeast,Mizoram,Online ,10000,1800,445,11355
+ED10295,Plus 2 Classes,Bhavna Choudhary,2014,September,North,Delhi,Offline,35000,6300,3115,38185
+ED10296,UPSC,Eklavya Sinha,2014,August,South,Kerala,Offline,35000,6300,3115,38185
+ED10297,UPSC,Dipanjana Sharma,2014,August,East,Jharkhand,Online ,40000,7200,3560,43640
+ED10298,Pre Classes,Jyotsna Singh,2014,August,West,Goa,Online ,10000,1800,2670,9130
+ED10299,UPSC,Bishakha Mukherjee,2014,September,Northeast,Meghalaya,Online ,35000,6300,9345,31955
+ED10300,Pre Classes,Fahmida Rahman,2014,September,North,Uttarakhand,Online ,5000,900,890,5010
+ED10301,UPSC,Chandan Singhania,2017,April,South,Andhra Pradesh,Online ,40000,7200,3560,43640
+ED10302,Plus 2 Classes,Gautam Thapa,2015,November,East,Bihar,Online ,35000,6300,6230,35070
+ED10303,Secondary classes,Divya Mahto,2015,November,West,Gujarat,Online ,12000,2160,2136,12024
+ED10304,Secondary classes,Utpal Ghoshal,2015,December,Northeast,Arunachal Pradesh,Offline,12000,2160,534,13626
+ED10305,Plus 2 Classes,Bina Rai,2014,December,North,Jammu and Kashmir,Offline,25000,4500,1113,28388
+ED10306,Secondary classes,Pratyusha Bose,2014,December,South,Telangana,Offline,7000,1260,1246,7014
+ED10307,Plus 2 Classes,Yashika Das,2014,November,East,West Bengal,Offline,35000,6300,1558,39743
+ED10308,UPSC,Trisha Murmu,2014,November,West,Maharashtra,Online ,35000,6300,1558,39743
+ED10309,UPSC,Xyla Singh,2014,November,Northeast,Assam,Online ,35000,6300,3115,38185
+ED10310,Plus 2 Classes,Anirudh Tripathi,2016,November,North,Punjab,Online ,35000,6300,9345,31955
+ED10311,Secondary classes,Gourav Chatterjee,2014,August,South,Tamil Nadu,Online ,7000,1260,1869,6391
+ED10312,Plus 2 Classes,Yashika Das,2016,July,East,Odisha,Online ,25000,4500,1113,28388
+ED10313,UPSC,Madhavi Mukhopadhyay,2016,July,West,Rajasthan,Online ,40000,7200,3560,43640
+ED10314,UPSC,Pranabjyoti Bhuyan,2015,October,Northeast,Nagaland,Online ,40000,7200,1780,45420
+ED10315,Plus 2 Classes,Chandan Singhania,2015,October,North,Delhi,Online ,25000,4500,1113,28388
+ED10316,Secondary classes,Xenia Chakrabarti,2015,October,South,Kerala,Online ,7000,1260,1869,6391
+ED10317,Plus 2 Classes,Oishi Dey,2015,October,East,Jharkhand,Offline,25000,4500,6675,22825
+ED10318,UPSC,Firoz Hussain,2015,October,West,Goa,Offline,40000,7200,1780,45420
+ED10319,Pre Classes,Trisha Murmu,2015,October,Northeast,Meghalaya,Online ,5000,900,445,5455
+ED10320,Secondary classes,Yashika Das,2014,March,North,Himachal Pradesh,Offline,12000,2160,1068,13092
+ED10321,UPSC,Ritu Rajput,2014,March,South,Karnataka,Offline,35000,6300,9345,31955
+ED10322,Pre Classes,Bhavna Choudhary,2017,November,East,Bihar,Offline,5000,900,1335,4565
+ED10323,Pre Classes,Rohini Tiwari,2017,July,West,Gujarat,Online ,10000,1800,445,11355
+ED10324,UPSC,Writabrata Das,2017,July,Northeast,Arunachal Pradesh,Offline,40000,7200,10680,36520
+ED10325,UPSC,Yashika Das,2017,June,North,Jammu and Kashmir,Online ,35000,6300,9345,31955
+ED10326,UPSC,Oishi Dey,2014,August,South,Telangana,Online ,35000,6300,3115,38185
+ED10327,Secondary classes,Dipanjana Sharma,2014,August,East,West Bengal,Offline,12000,2160,2136,12024
+ED10328,Pre Classes,Bhavna Choudhary,2017,December,West,Maharashtra,Online ,10000,1800,445,11355
+ED10329,Pre Classes,Anirudh Tripathi,2017,June,Northeast,Assam,Online ,5000,900,223,5678
+ED10330,Secondary classes,Chaitanya Bora,2017,December,North,Punjab,Online ,7000,1260,623,7637
+ED10331,UPSC,Ritu Rajput,2017,December,South,Tamil Nadu,Offline,35000,6300,9345,31955
+ED10332,Pre Classes,Lalit Sinha,2017,December,East,Odisha,Offline,5000,900,890,5010
+ED10333,Plus 2 Classes,Xenia Chakrabarti,2017,December,West,Rajasthan,Offline,35000,6300,9345,31955
+ED10334,Pre Classes,Ipsita Saikia,2017,December,Northeast,Tripura,Online ,10000,1800,445,11355
+ED10335,Pre Classes,Lalita Khanna,2017,December,North,Uttar Pradesh,Online ,10000,1800,1780,10020
+ED10336,Secondary classes,Varunika Sen,2015,February,South,Karnataka,Offline,12000,2160,3204,10956
+ED10337,Pre Classes,Omkar Mishra,2015,January,East,Bihar,Online ,5000,900,445,5455
+ED10338,Secondary classes,Dipanjana Sharma,2015,January,West,Gujarat,Online ,7000,1260,1869,6391
+ED10339,Pre Classes,Dipanjana Sharma,2015,January,Northeast,Mizoram,Offline,5000,900,1335,4565
+ED10340,Pre Classes,Ekanath Devi,2015,January,North,Delhi,Online ,5000,900,445,5455
+ED10341,Plus 2 Classes,Madhavi Mukhopadhyay,2015,January,South,Kerala,Offline,35000,6300,9345,31955
+ED10342,UPSC,Utpal Ghoshal,2016,October,East,Jharkhand,Offline,35000,6300,1558,39743
+ED10343,Pre Classes,Lalita Khanna,2016,October,West,Goa,Offline,5000,900,890,5010
+ED10344,Secondary classes,Kartik Soren,2015,December,Northeast,Manipur,Offline,7000,1260,312,7949
+ED10345,UPSC,Farida Ansari,2015,December,East,Odisha,Offline,35000,6300,9345,31955
+ED10346,UPSC,Oishi Dey,2015,December,West,Rajasthan,Online ,40000,7200,10680,36520
+ED10347,Secondary classes,Faisal Khan,2015,December,Northeast,Mizoram,Offline,12000,2160,1068,13092
+ED10348,Secondary classes,Gourav Chatterjee,2015,December,North,Delhi,Offline,7000,1260,623,7637
+ED10349,Pre Classes,Bishakha Mukherjee,2015,December,South,Kerala,Offline,10000,1800,445,11355
+ED10350,UPSC,Writabrata Das,2015,August,East,Jharkhand,Online ,35000,6300,9345,31955
+ED10351,Plus 2 Classes,Prabhat Ranjan,2015,August,West,Goa,Online ,35000,6300,6230,35070
+ED10352,Plus 2 Classes,Arunima Das,2015,August,Northeast,Meghalaya,Offline,25000,4500,6675,22825
+ED10353,Plus 2 Classes,Ujjwal Kumar,2015,February,North,Uttarakhand,Offline,35000,6300,9345,31955
+ED10354,Secondary classes,Saurabh Tiwari,2015,February,South,Andhra Pradesh,Online ,12000,2160,1068,13092
+ED10355,Plus 2 Classes,Sampurna Das,2014,September,East,Bihar,Online ,35000,6300,1558,39743
+ED10356,Pre Classes,Manjula Kalita,2017,April,West,Gujarat,Offline,5000,900,445,5455
+ED10357,Plus 2 Classes,Varunika Sen,2017,April,Northeast,Arunachal Pradesh,Offline,35000,6300,3115,38185
+ED10358,Plus 2 Classes,Chandan Singhania,2017,April,North,Jammu and Kashmir,Online ,25000,4500,4450,25050
+ED10359,Pre Classes,Chandan Singhania,2017,April,South,Telangana,Offline,10000,1800,445,11355
+ED10360,Pre Classes,Sampurna Das,2017,April,East,West Bengal,Offline,5000,900,1335,4565
+ED10361,Pre Classes,Utpal Ghoshal,2017,November,West,Maharashtra,Offline,10000,1800,890,10910
+ED10362,Pre Classes,Sapna Chakraborty,2016,June,Northeast,Assam,Offline,5000,900,890,5010
+ED10363,UPSC,Deepali Sahay,2016,June,North,Punjab,Offline,35000,6300,6230,35070
+ED10364,UPSC,Gautam Thapa,2016,June,South,Tamil Nadu,Offline,35000,6300,9345,31955
+ED10365,Secondary classes,Waman Thakur,2016,June,East,Odisha,Offline,12000,2160,534,13626
+ED10366,Plus 2 Classes,Trisha Murmu,2016,June,West,Rajasthan,Online ,25000,4500,4450,25050
+ED10367,Pre Classes,Madhavi Mukhopadhyay,2016,June,Northeast,Nagaland,Offline,10000,1800,2670,9130
+ED10368,UPSC,Ranjit Barman,2016,June,North,Delhi,Offline,40000,7200,3560,43640
+ED10369,Plus 2 Classes,Debopriya Datta,2014,June,South,Kerala,Offline,35000,6300,1558,39743
+ED10370,Secondary classes,Bhaskar Barua,2014,June,East,Jharkhand,Online ,7000,1260,1869,6391
+ED10371,Plus 2 Classes,Jhilmil Devi,2014,June,West,Goa,Online ,35000,6300,3115,38185
+ED10372,Pre Classes,Arunima Das,2014,June,Northeast,Meghalaya,Online ,10000,1800,890,10910
+ED10373,Secondary classes,Yashika Das,2014,June,North,Himachal Pradesh,Online ,7000,1260,623,7637
+ED10374,Secondary classes,Tanuja Devi,2016,December,South,Karnataka,Online ,7000,1260,312,7949
+ED10375,UPSC,Prabhat Ranjan,2016,September,East,Bihar,Offline,40000,7200,1780,45420
+ED10376,Secondary classes,Sampurna Das,2016,September,West,Gujarat,Offline,7000,1260,623,7637
+ED10377,UPSC,Chandan Singhania,2016,December,Northeast,Arunachal Pradesh,Online ,35000,6300,3115,38185
+ED10378,Secondary classes,Oishi Dey,2016,December,North,Jammu and Kashmir,Offline,7000,1260,312,7949
+ED10379,Pre Classes,Hemangini Roy,2015,November,South,Telangana,Online ,10000,1800,1780,10020
+ED10380,Pre Classes,Eklavya Sinha,2015,November,East,West Bengal,Online ,10000,1800,890,10910
+ED10381,Secondary classes,Chaitanya Bora,2015,November,West,Maharashtra,Offline,7000,1260,623,7637
+ED10382,Plus 2 Classes,Sanjeev Prakash,2015,November,Northeast,Assam,Online ,25000,4500,6675,22825
+ED10383,Plus 2 Classes,Nikhil Yadav,2017,December,North,Punjab,Online ,35000,6300,9345,31955
+ED10384,Secondary classes,Chandan Singhania,2017,December,South,Tamil Nadu,Offline,12000,2160,534,13626
+ED10385,Secondary classes,Umaima Rahman,2017,December,East,Odisha,Online ,7000,1260,1869,6391
+ED10386,UPSC,Joydeep Basu,2017,June,West,Rajasthan,Offline,35000,6300,3115,38185
+ED10387,Pre Classes,Sanjeev Prakash,2014,September,Northeast,Tripura,Offline,5000,900,890,5010
+ED10388,Secondary classes,Gourav Chatterjee,2014,September,North,Uttar Pradesh,Online ,12000,2160,2136,12024
+ED10389,Plus 2 Classes,Gopal Verma,2016,June,South,Karnataka,Offline,35000,6300,9345,31955
+ED10390,Pre Classes,Zubin Mahanta,2015,November,East,Bihar,Offline,5000,900,890,5010
+ED10391,Plus 2 Classes,Indrajit Sharma,2017,June,West,Gujarat,Offline,25000,4500,1113,28388
+ED10392,Secondary classes,Chandan Singhania,2016,January,Northeast,Mizoram,Online ,12000,2160,1068,13092
+ED10393,UPSC,Hemanta Singh,2017,December,North,Delhi,Offline,35000,6300,9345,31955
+ED10394,UPSC,Komal Mishra,2017,December,South,Kerala,Online ,35000,6300,1558,39743
+ED10395,Plus 2 Classes,Jyotirmoy Deb,2017,December,East,Jharkhand,Online ,35000,6300,1558,39743
+ED10396,Pre Classes,Chiranjit Ghosh,2015,July,West,Goa,Offline,5000,900,445,5455
+ED10397,Secondary classes,Tanusree Chakraborty,2015,July,Northeast,Manipur,Online ,7000,1260,1869,6391
+ED10398,Secondary classes,Rohini Tiwari,2015,July,North,Uttar Pradesh,Online ,7000,1260,1869,6391
+ED10399,Pre Classes,Chiranjit Ghosh,2017,September,South,Andhra Pradesh,Online ,10000,1800,1780,10020
+ED10400,Pre Classes,Farida Ansari,2017,September,East,Bihar,Online ,5000,900,445,5455
+ED10401,Secondary classes,Joydeep Basu,2017,October,West,Gujarat,Online ,12000,2160,3204,10956
+ED10402,Plus 2 Classes,Faisal Khan,2017,October,Northeast,Arunachal Pradesh,Offline,25000,4500,6675,22825
+ED10403,Pre Classes,Nikhil Yadav,2017,October,North,Jammu and Kashmir,Offline,10000,1800,1780,10020
+ED10404,UPSC,Trisha Murmu,2017,October,South,Telangana,Online ,35000,6300,9345,31955
+ED10405,Secondary classes,Chaitanya Bora,2015,September,East,West Bengal,Offline,12000,2160,534,13626
+ED10406,Secondary classes,Hemanta Singh,2015,September,West,Maharashtra,Online ,12000,2160,3204,10956
+ED10407,Pre Classes,Umaima Rahman,2015,November,Northeast,Assam,Offline,10000,1800,890,10910
+ED10408,Plus 2 Classes,Manjula Kalita,2015,September,North,Punjab,Online ,25000,4500,2225,27275
+ED10409,Secondary classes,Qazi Ali,2015,September,South,Tamil Nadu,Offline,12000,2160,2136,12024
+ED10410,Secondary classes,Arunima Das,2015,September,East,Odisha,Offline,7000,1260,1246,7014
+ED10411,Plus 2 Classes,Debopriya Datta,2016,December,West,Rajasthan,Online ,25000,4500,4450,25050
+ED10412,Secondary classes,Sampurna Das,2016,December,Northeast,Nagaland,Online ,12000,2160,2136,12024
+ED10413,Secondary classes,Chiranjit Ghosh,2016,December,North,Delhi,Offline,7000,1260,623,7637
+ED10414,Pre Classes,Qazi Ali,2016,November,South,Kerala,Offline,5000,900,445,5455
+ED10415,Pre Classes,Manoj Singh,2016,November,East,Jharkhand,Offline,10000,1800,890,10910
+ED10416,Plus 2 Classes,Nandini Sharma,2016,November,West,Goa,Offline,35000,6300,6230,35070
+ED10417,UPSC,Kasturi Palit,2016,November,Northeast,Meghalaya,Online ,40000,7200,1780,45420
+ED10418,Pre Classes,Lakshmi Hazarika,2014,December,North,Himachal Pradesh,Online ,5000,900,890,5010
+ED10419,Secondary classes,Zubin Mahanta,2014,December,South,Karnataka,Offline,12000,2160,2136,12024
+ED10420,Pre Classes,Qamar Raza,2014,December,East,Bihar,Online ,5000,900,223,5678
+ED10421,UPSC,Chaitanya Bora,2014,December,West,Gujarat,Offline,40000,7200,10680,36520
+ED10422,Pre Classes,Nabakanta Das,2014,December,Northeast,Arunachal Pradesh,Offline,5000,900,445,5455
+ED10423,Plus 2 Classes,Writam Chatterjee,2016,October,North,Jammu and Kashmir,Offline,25000,4500,2225,27275
+ED10424,Plus 2 Classes,Oishi Dey,2016,October,South,Telangana,Offline,25000,4500,4450,25050
+ED10425,Pre Classes,Eshaan Sengupta,2016,October,East,West Bengal,Online ,10000,1800,2670,9130
+ED10426,Pre Classes,Sampurna Das,2016,October,West,Maharashtra,Offline,10000,1800,890,10910
+ED10427,UPSC,Anirudh Tripathi,2016,October,Northeast,Assam,Offline,35000,6300,3115,38185
+ED10428,Secondary classes,Mitali Rai,2017,November,North,Punjab,Offline,7000,1260,623,7637
+ED10429,UPSC,Umaima Rahman,2015,May,South,Tamil Nadu,Online ,35000,6300,3115,38185
+ED10430,UPSC,Fahmida Rahman,2014,December,East,Odisha,Online ,40000,7200,7120,40080
+ED10431,Pre Classes,Hemangini Roy,2014,June,West,Rajasthan,Offline,10000,1800,2670,9130
+ED10432,Pre Classes,Pratyusha Bose,2014,June,Northeast,Tripura,Online ,10000,1800,1780,10020
+ED10433,Pre Classes,Pratyusha Bose,2017,April,North,Uttar Pradesh,Online ,10000,1800,890,10910
+ED10434,Plus 2 Classes,Chandan Singhania,2016,September,South,Karnataka,Online ,25000,4500,4450,25050
+ED10435,Plus 2 Classes,Trisha Murmu,2016,September,East,Bihar,Offline,35000,6300,6230,35070
+ED10436,Plus 2 Classes,Faisal Khan,2016,September,West,Gujarat,Online ,35000,6300,1558,39743
+ED10437,Pre Classes,Yashika Das,2016,September,Northeast,Mizoram,Online ,10000,1800,1780,10020
+ED10438,UPSC,Umaima Rahman,2014,September,North,Delhi,Offline,35000,6300,9345,31955
+ED10439,Secondary classes,Aditya Prasad,2014,August,South,Kerala,Offline,7000,1260,623,7637
+ED10440,UPSC,Quddus Ahmed,2014,August,East,Jharkhand,Offline,40000,7200,10680,36520
+ED10441,Plus 2 Classes,Hemangini Roy,2014,December,West,Goa,Offline,35000,6300,6230,35070
+ED10442,Plus 2 Classes,Xitij Borah,2014,November,Northeast,Manipur,Offline,25000,4500,2225,27275
+ED10443,Plus 2 Classes,Xenia Chakrabarti,2014,November,North,Himachal Pradesh,Offline,35000,6300,1558,39743
+ED10444,Pre Classes,Pranabjyoti Bhuyan,2014,November,South,Karnataka,Online ,10000,1800,2670,9130
+ED10445,Pre Classes,Himani Verma,2014,November,East,Bihar,Online ,10000,1800,1780,10020
+ED10446,UPSC,Dipanjana Sharma,2014,November,West,Gujarat,Offline,40000,7200,1780,45420
+ED10447,UPSC,Eshaan Sengupta,2014,September,Northeast,Nagaland,Offline,35000,6300,3115,38185
+ED10448,UPSC,Nabakanta Das,2016,April,North,Jammu and Kashmir,Online ,40000,7200,3560,43640
+ED10449,Pre Classes,Waman Thakur,2016,April,South,Telangana,Online ,5000,900,223,5678
+ED10450,Plus 2 Classes,Yamini Sardar,2017,November,East,West Bengal,Online ,35000,6300,6230,35070
+ED10451,Plus 2 Classes,Kartik Soren,2016,August,West,Maharashtra,Online ,25000,4500,1113,28388
+ED10452,Secondary classes,Lalita Khanna,2016,August,Northeast,Assam,Online ,12000,2160,2136,12024
+ED10453,UPSC,Kartik Soren,2016,August,East,West Bengal,Offline,40000,7200,3560,43640
+ED10454,UPSC,Manjula Kalita,2016,August,West,Maharashtra,Online ,35000,6300,6230,35070
+ED10455,Pre Classes,Gopal Verma,2016,August,Northeast,Assam,Offline,10000,1800,890,10910
+ED10456,Plus 2 Classes,Fahmida Rahman,2016,April,North,Punjab,Offline,35000,6300,3115,38185
+ED10457,Pre Classes,Ujjwal Kumar,2016,April,South,Tamil Nadu,Online ,5000,900,223,5678
+ED10458,Secondary classes,Saurabh Tiwari,2016,April,East,Odisha,Offline,12000,2160,1068,13092
+ED10459,Plus 2 Classes,Nikhil Yadav,2015,September,West,Rajasthan,Online ,25000,4500,1113,28388
+ED10460,Secondary classes,Bhavna Choudhary,2015,September,Northeast,Tripura,Online ,12000,2160,534,13626
+ED10461,Pre Classes,Faisal Khan,2015,September,North,Uttar Pradesh,Offline,5000,900,890,5010
+ED10462,UPSC,Qazi Ali,2014,July,South,Karnataka,Offline,40000,7200,1780,45420
+ED10463,Pre Classes,Xenia Chakrabarti,2014,July,East,Bihar,Offline,10000,1800,1780,10020
+ED10464,Secondary classes,Zeenat Kaur,2015,June,West,Gujarat,Offline,7000,1260,623,7637
+ED10465,Secondary classes,Nandita Roy,2014,April,Northeast,Mizoram,Offline,12000,2160,3204,10956
+ED10466,Plus 2 Classes,Ritu Rajput,2014,April,North,Delhi,Online ,25000,4500,4450,25050
+ED10467,Secondary classes,Pranabjyoti Bhuyan,2014,April,South,Kerala,Offline,7000,1260,1869,6391
+ED10468,Secondary classes,Kasturi Palit,2014,April,East,Jharkhand,Offline,7000,1260,312,7949
+ED10469,Pre Classes,Quadir Ahmed Khan,2015,December,West,Goa,Offline,10000,1800,445,11355
+ED10470,Plus 2 Classes,Firoz Hussain,2017,June,Northeast,Manipur,Offline,35000,6300,3115,38185
+ED10471,Secondary classes,Hiralal Pandey,2017,July,North,Himachal Pradesh,Online ,7000,1260,1869,6391
+ED10472,Secondary classes,Pranabjyoti Bhuyan,2017,July,South,Karnataka,Offline,12000,2160,534,13626
+ED10473,Plus 2 Classes,Prabhat Ranjan,2017,July,East,Bihar,Online ,25000,4500,4450,25050
+ED10474,Secondary classes,Himani Verma,2016,September,West,Gujarat,Online ,12000,2160,2136,12024
+ED10475,Secondary classes,Waman Thakur,2016,September,Northeast,Nagaland,Online ,7000,1260,623,7637
+ED10476,Secondary classes,Pratyusha Bose,2016,September,North,Jammu and Kashmir,Online ,7000,1260,1246,7014
+ED10477,UPSC,Ekanath Devi,2016,September,South,Telangana,Offline,40000,7200,3560,43640
+ED10478,Pre Classes,Udita Chatterjee,2016,September,East,West Bengal,Offline,10000,1800,1780,10020
+ED10479,UPSC,Jyotsna Singh,2016,April,West,Maharashtra,Online ,40000,7200,3560,43640
+ED10480,Secondary classes,Hemangini Roy,2016,April,Northeast,Assam,Offline,12000,2160,534,13626
+ED10481,Secondary classes,Gaurav Jha,2016,April,North,Punjab,Offline,7000,1260,623,7637
+ED10482,Secondary classes,Indrani Dasgupta,2016,April,South,Tamil Nadu,Online ,7000,1260,623,7637
+ED10483,Pre Classes,Indrani Dasgupta,2016,April,East,Odisha,Offline,10000,1800,2670,9130
+ED10484,UPSC,Kartik Soren,2017,March,West,Rajasthan,Offline,35000,6300,9345,31955
+ED10485,Secondary classes,Eshaan Sengupta,2017,March,Northeast,Mizoram,Offline,7000,1260,1246,7014
+ED10486,Pre Classes,Eshaan Sengupta,2017,September,North,Delhi,Offline,5000,900,1335,4565
+ED10487,Secondary classes,Lakshmi Hazarika,2017,September,South,Kerala,Offline,12000,2160,3204,10956
+ED10488,Pre Classes,Xyla Singh,2017,September,East,Jharkhand,Offline,10000,1800,2670,9130
+ED10489,Secondary classes,Rohini Tiwari,2017,September,West,Goa,Offline,7000,1260,312,7949
+ED10490,Pre Classes,Pranabjyoti Bhuyan,2014,September,Northeast,Meghalaya,Offline,10000,1800,2670,9130
+ED10491,Plus 2 Classes,Aditya Prasad,2016,October,North,Uttarakhand,Offline,25000,4500,6675,22825
+ED10492,Secondary classes,Bhaskar Barua,2016,October,South,Andhra Pradesh,Offline,7000,1260,1869,6391
+ED10493,Secondary classes,Gaurav Jha,2016,October,East,Bihar,Offline,12000,2160,3204,10956
+ED10494,UPSC,Xyla Singh,2016,October,West,Gujarat,Online ,35000,6300,9345,31955
+ED10495,UPSC,Udita Chatterjee,2017,May,Northeast,Arunachal Pradesh,Offline,40000,7200,3560,43640
+ED10496,UPSC,Hemanta Singh,2017,May,North,Jammu and Kashmir,Offline,40000,7200,10680,36520
+ED10497,Secondary classes,Zeenat Kaur,2014,July,South,Telangana,Online ,12000,2160,534,13626
+ED10498,Pre Classes,Aditya Prasad,2014,July,East,West Bengal,Offline,10000,1800,890,10910
+ED10499,UPSC,Ritwik Bannerjee,2014,July,West,Maharashtra,Offline,35000,6300,1558,39743
+ED10500,UPSC,Lalita Khanna,2014,July,Northeast,Assam,Online ,35000,6300,6230,35070
+ED10501,Plus 2 Classes,Tanusree Chakraborty,2016,September,North,Punjab,Online ,35000,6300,6230,35070
+ED10502,Secondary classes,Joydeep Basu,2017,August,South,Tamil Nadu,Offline,7000,1260,1869,6391
+ED10503,Secondary classes,Anirudh Tripathi,2015,April,East,Odisha,Online ,7000,1260,1246,7014
+ED10504,Plus 2 Classes,Komal Mishra,2015,April,West,Rajasthan,Offline,25000,4500,1113,28388
+ED10505,Pre Classes,Chandan Kumar,2015,April,Northeast,Nagaland,Offline,10000,1800,445,11355
+ED10506,Secondary classes,Writam Chatterjee,2016,October,North,Delhi,Online ,12000,2160,1068,13092
+ED10507,Plus 2 Classes,Eshaan Sengupta,2016,October,South,Kerala,Offline,35000,6300,1558,39743
+ED10508,Plus 2 Classes,Hiralal Pandey,2015,June,East,Jharkhand,Offline,35000,6300,1558,39743
+ED10509,UPSC,Manjula Kalita,2015,November,West,Goa,Online ,35000,6300,6230,35070
+ED10510,Pre Classes,Indrajit Sharma,2015,November,Northeast,Meghalaya,Offline,5000,900,1335,4565
+ED10511,UPSC,Xitij Borah,2015,December,North,Himachal Pradesh,Offline,35000,6300,9345,31955
+ED10512,Pre Classes,Trisha Murmu,2015,December,South,Karnataka,Offline,10000,1800,2670,9130
+ED10513,Pre Classes,Eklavya Sinha,2014,November,East,Bihar,Offline,5000,900,890,5010
+ED10514,Secondary classes,Trisha Murmu,2017,December,West,Gujarat,Online ,12000,2160,534,13626
+ED10515,Secondary classes,Ranjit Barman,2017,December,Northeast,Arunachal Pradesh,Offline,7000,1260,1869,6391
+ED10516,Pre Classes,Bina Rai,2014,September,North,Jammu and Kashmir,Online ,10000,1800,445,11355
+ED10517,Plus 2 Classes,Farida Ansari,2014,September,South,Telangana,Online ,35000,6300,6230,35070
+ED10518,Pre Classes,Oindrila Sen,2014,June,East,West Bengal,Offline,10000,1800,2670,9130
+ED10519,Plus 2 Classes,Yamini Sardar,2017,June,West,Maharashtra,Offline,25000,4500,4450,25050
+ED10520,UPSC,Zeenat Kaur,2017,October,Northeast,Assam,Online ,40000,7200,3560,43640
+ED10521,Plus 2 Classes,Zubin Mahanta,2017,October,North,Punjab,Online ,25000,4500,2225,27275
+ED10522,UPSC,Komal Mishra,2015,October,South,Tamil Nadu,Online ,40000,7200,7120,40080
+ED10523,Pre Classes,Ritu Rajput,2016,September,East,Odisha,Offline,5000,900,1335,4565
+ED10524,Secondary classes,Komal Mishra,2016,September,West,Rajasthan,Online ,7000,1260,1869,6391
+ED10525,Pre Classes,Umaima Rahman,2016,September,Northeast,Tripura,Offline,5000,900,223,5678
+ED10526,Secondary classes,Lalit Sinha,2016,September,North,Uttar Pradesh,Offline,12000,2160,1068,13092
+ED10527,Secondary classes,Eshita Raj,2014,December,South,Karnataka,Offline,7000,1260,623,7637
+ED10528,Plus 2 Classes,Writam Chatterjee,2014,April,East,Bihar,Online ,35000,6300,6230,35070
+ED10529,Pre Classes,Aritra Banerjee,2017,December,West,Gujarat,Online ,5000,900,445,5455
+ED10530,Plus 2 Classes,Aditya Prasad,2017,December,Northeast,Mizoram,Offline,25000,4500,1113,28388
+ED10531,Plus 2 Classes,Anirudh Tripathi,2017,December,North,Delhi,Online ,35000,6300,9345,31955
+ED10532,Secondary classes,Himani Verma,2017,December,South,Kerala,Online ,12000,2160,3204,10956
+ED10533,Plus 2 Classes,Varsha Yadav,2017,December,East,Jharkhand,Offline,35000,6300,3115,38185
+ED10534,UPSC,Aditya Prasad,2017,December,West,Goa,Offline,40000,7200,1780,45420
+ED10535,Plus 2 Classes,Mitali Rai,2017,December,Northeast,Manipur,Online ,35000,6300,3115,38185
+ED10536,Pre Classes,Zubin Mahanta,2017,December,East,Odisha,Offline,5000,900,445,5455
+ED10537,Secondary classes,Chandan Kumar,2017,December,West,Rajasthan,Offline,12000,2160,2136,12024
+ED10538,UPSC,Quddus Ahmed,2017,December,Northeast,Mizoram,Online ,35000,6300,1558,39743
+ED10539,Plus 2 Classes,Varunika Sen,2017,November,North,Delhi,Online ,25000,4500,1113,28388
+ED10540,UPSC,Fahmida Rahman,2017,November,South,Kerala,Online ,40000,7200,10680,36520
+ED10541,Pre Classes,Utpal Ghoshal,2017,June,East,Jharkhand,Online ,5000,900,223,5678
+ED10542,UPSC,Ipsita Saikia,2016,April,West,Goa,Online ,35000,6300,6230,35070
+ED10543,Pre Classes,Nabakanta Das,2017,November,Northeast,Meghalaya,Offline,10000,1800,890,10910
+ED10544,Secondary classes,Deepali Sahay,2017,March,North,Uttarakhand,Online ,7000,1260,623,7637
+ED10545,Secondary classes,Ojaswini Thakur,2017,March,South,Andhra Pradesh,Online ,7000,1260,312,7949
+ED10546,UPSC,Yashodhara Baruah,2014,June,East,Bihar,Online ,35000,6300,9345,31955
+ED10547,Secondary classes,Trisha Murmu,2017,October,West,Gujarat,Offline,7000,1260,312,7949
+ED10548,Plus 2 Classes,Hemanta Singh,2017,October,Northeast,Arunachal Pradesh,Online ,35000,6300,3115,38185
+ED10549,UPSC,Oindrila Sen,2017,August,North,Jammu and Kashmir,Offline,40000,7200,10680,36520
+ED10550,UPSC,Sapna Chakraborty,2017,November,South,Telangana,Offline,40000,7200,7120,40080
+ED10551,Plus 2 Classes,Aritra Banerjee,2017,November,East,West Bengal,Online ,35000,6300,6230,35070
+ED10552,UPSC,Fahmida Rahman,2014,September,West,Maharashtra,Offline,40000,7200,1780,45420
+ED10553,Pre Classes,Yashodhara Baruah,2017,October,Northeast,Assam,Online ,10000,1800,1780,10020
+ED10554,Plus 2 Classes,Deepali Sahay,2016,April,North,Punjab,Offline,35000,6300,3115,38185
+ED10555,Plus 2 Classes,Eshaan Sengupta,2016,April,South,Tamil Nadu,Online ,25000,4500,2225,27275
+ED10556,Secondary classes,Manoj Singh,2016,April,East,Odisha,Online ,12000,2160,2136,12024
+ED10557,Pre Classes,Ranjit Barman,2016,April,West,Rajasthan,Online ,5000,900,445,5455
+ED10558,Plus 2 Classes,Ritu Rajput,2016,June,Northeast,Nagaland,Offline,35000,6300,6230,35070
+ED10559,UPSC,Chaitanya Bora,2014,December,North,Delhi,Online ,35000,6300,3115,38185
+ED10560,UPSC,Qazi Ali,2014,December,South,Kerala,Online ,35000,6300,6230,35070
+ED10561,Secondary classes,Manjula Kalita,2016,June,North,Himachal Pradesh,Online ,12000,2160,1068,13092
+ED10562,UPSC,Udita Chatterjee,2016,June,South,Karnataka,Offline,40000,7200,1780,45420
+ED10563,UPSC,Yashodhara Baruah,2017,September,East,Bihar,Offline,40000,7200,7120,40080
+ED10564,Plus 2 Classes,Gaurav Jha,2017,January,West,Gujarat,Offline,25000,4500,1113,28388
+ED10565,UPSC,Bina Rai,2016,September,Northeast,Arunachal Pradesh,Offline,40000,7200,3560,43640
+ED10566,Plus 2 Classes,Lakshmi Hazarika,2016,September,North,Jammu and Kashmir,Online ,25000,4500,2225,27275
+ED10567,UPSC,Nandini Sharma,2016,September,South,Telangana,Offline,35000,6300,3115,38185
+ED10568,Plus 2 Classes,Ritwik Bannerjee,2016,September,East,West Bengal,Online ,35000,6300,1558,39743
+ED10569,Pre Classes,Madhavi Mukhopadhyay,2016,September,West,Maharashtra,Offline,5000,900,890,5010
+ED10570,Pre Classes,Vijaylakshmi Thakur,2016,September,Northeast,Assam,Offline,5000,900,445,5455
+ED10571,Pre Classes,Writam Chatterjee,2017,March,North,Punjab,Offline,10000,1800,1780,10020
+ED10572,UPSC,Aritra Banerjee,2016,April,South,Tamil Nadu,Offline,35000,6300,3115,38185
+ED10573,UPSC,Eshita Raj,2016,April,East,Odisha,Offline,40000,7200,10680,36520
+ED10574,Secondary classes,Komal Mishra,2016,April,West,Rajasthan,Offline,12000,2160,534,13626
+ED10575,UPSC,Mitali Rai,2016,April,Northeast,Tripura,Online ,40000,7200,3560,43640
+ED10576,Secondary classes,Varsha Yadav,2016,April,North,Uttar Pradesh,Offline,7000,1260,312,7949
+ED10577,Plus 2 Classes,Kartik Soren,2016,April,South,Karnataka,Offline,35000,6300,1558,39743
+ED10578,Pre Classes,Tanuja Devi,2017,October,East,Bihar,Offline,5000,900,223,5678
+ED10579,Plus 2 Classes,Lalit Sinha,2017,October,West,Gujarat,Online ,35000,6300,1558,39743
+ED10580,UPSC,Xitij Borah,2016,December,Northeast,Mizoram,Online ,35000,6300,6230,35070
+ED10581,Secondary classes,Ritwik Bannerjee,2014,February,North,Delhi,Online ,12000,2160,2136,12024
+ED10582,Plus 2 Classes,Indrajit Sharma,2016,September,South,Kerala,Online ,35000,6300,9345,31955
+ED10583,UPSC,Writam Chatterjee,2016,September,East,Jharkhand,Offline,35000,6300,9345,31955
+ED10584,Plus 2 Classes,Bhaskar Barua,2015,December,West,Goa,Online ,25000,4500,2225,27275
+ED10585,UPSC,Chandan Singhania,2015,December,Northeast,Manipur,Offline,35000,6300,6230,35070
+ED10586,Secondary classes,Faisal Khan,2015,December,East,Odisha,Online ,12000,2160,3204,10956
+ED10587,Pre Classes,Ranjit Barman,2016,April,West,Rajasthan,Offline,10000,1800,445,11355
+ED10588,Plus 2 Classes,Yashika Das,2016,April,Northeast,Mizoram,Offline,35000,6300,9345,31955
+ED10589,Pre Classes,Gopal Verma,2016,April,North,Delhi,Offline,10000,1800,890,10910
+ED10590,Pre Classes,Hemangini Roy,2016,April,South,Kerala,Online ,5000,900,890,5010
+ED10591,UPSC,Sampurna Das,2016,April,East,Jharkhand,Online ,35000,6300,3115,38185
+ED10592,Secondary classes,Lakshmi Hazarika,2015,January,West,Goa,Offline,12000,2160,2136,12024
+ED10593,Pre Classes,Chiranjit Ghosh,2017,March,Northeast,Meghalaya,Online ,10000,1800,890,10910
+ED10594,Plus 2 Classes,Oindrila Sen,2016,December,North,Uttarakhand,Offline,35000,6300,3115,38185
+ED10595,Pre Classes,Komal Mishra,2015,December,South,Andhra Pradesh,Offline,5000,900,890,5010
+ED10596,Pre Classes,Kartik Soren,2014,November,East,Bihar,Online ,5000,900,445,5455
+ED10597,Plus 2 Classes,Farida Ansari,2014,November,West,Gujarat,Online ,35000,6300,1558,39743
+ED10598,UPSC,Fahmida Rahman,2014,November,Northeast,Arunachal Pradesh,Offline,40000,7200,1780,45420
+ED10599,Secondary classes,Kartik Soren,2014,November,North,Jammu and Kashmir,Offline,7000,1260,623,7637
+ED10600,UPSC,Vedika Singh,2014,November,South,Telangana,Online ,40000,7200,10680,36520
+ED10601,Secondary classes,Fahmida Rahman,2014,November,East,West Bengal,Online ,12000,2160,2136,12024
+ED10602,Secondary classes,Waman Thakur,2016,July,West,Maharashtra,Offline,12000,2160,1068,13092
+ED10603,Pre Classes,Pranabjyoti Bhuyan,2016,October,Northeast,Assam,Online ,10000,1800,1780,10020
+ED10604,Plus 2 Classes,Lalita Khanna,2016,June,North,Punjab,Online ,35000,6300,9345,31955
+ED10605,Plus 2 Classes,Indrani Dasgupta,2016,June,South,Tamil Nadu,Offline,25000,4500,6675,22825
+ED10606,Pre Classes,Tapan Sarkar,2014,October,East,Odisha,Offline,10000,1800,1780,10020
+ED10607,Plus 2 Classes,Jyotirmoy Deb,2014,July,West,Rajasthan,Offline,35000,6300,9345,31955
+ED10608,UPSC,Umaima Rahman,2014,July,Northeast,Nagaland,Offline,40000,7200,7120,40080
+ED10609,Pre Classes,Debopriya Datta,2017,June,North,Delhi,Online ,10000,1800,2670,9130
+ED10610,Pre Classes,Oishi Dey,2017,June,South,Kerala,Online ,10000,1800,890,10910
+ED10611,UPSC,Chandan Kumar,2017,June,Northeast,Meghalaya,Offline,35000,6300,6230,35070
+ED10612,Pre Classes,Nandini Sharma,2014,October,North,Himachal Pradesh,Offline,10000,1800,1780,10020
+ED10613,UPSC,Arunima Das,2014,June,South,Karnataka,Online ,35000,6300,1558,39743
+ED10614,Secondary classes,Yashodhara Baruah,2014,June,East,Bihar,Offline,12000,2160,1068,13092
+ED10615,Pre Classes,Chiranjit Ghosh,2014,June,West,Gujarat,Offline,10000,1800,445,11355
+ED10616,Pre Classes,Waman Thakur,2014,September,Northeast,Arunachal Pradesh,Online ,5000,900,890,5010
+ED10617,UPSC,Ojaswini Thakur,2014,September,North,Jammu and Kashmir,Online ,40000,7200,7120,40080
+ED10618,Pre Classes,Qazi Ali,2016,May,South,Telangana,Online ,5000,900,890,5010
+ED10619,UPSC,Nandini Sharma,2016,March,East,West Bengal,Offline,35000,6300,3115,38185
+ED10620,Plus 2 Classes,Yashodhara Baruah,2015,December,West,Maharashtra,Offline,25000,4500,2225,27275
+ED10621,Plus 2 Classes,Sampurna Das,2016,July,Northeast,Assam,Online ,35000,6300,6230,35070
+ED10622,Plus 2 Classes,Bhavna Choudhary,2016,July,North,Punjab,Online ,35000,6300,6230,35070
+ED10623,Pre Classes,Chaitanya Bora,2016,July,South,Tamil Nadu,Offline,5000,900,445,5455
