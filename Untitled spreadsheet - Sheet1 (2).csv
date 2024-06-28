@@ -1,0 +1,351 @@
+id,product_name,category,sale_month,sale_year,region,unit_price,units_sold,total_sales,discount,profit_margin,customer_satisfaction,returns
+4544,Router,Health & Beauty,September,2024,East,792.14,100,79214,0.14,0.18,1.4,1
+4545,Router,Automotive,October,2021,North,489.01,62,30318.62,0.02,0.16,3.8,0
+4546,Router,Sports,November,2020,South,699.44,30,20983.2,0.27,0.11,2.8,0
+4547,Tablet,Sports,March,2022,East,194.39,70,13607.3,0.25,0.1,3.6,5
+4548,Mobile Phone,Home Appliances,September,2023,South,715.36,84,60090.24,0.19,0.16,4.6,0
+4549,Tablet,Health & Beauty,January,2022,East,634.13,69,43754.97,0.14,0.06,1.3,2
+4550,Smartwatch,Sports,May,2021,East,750.93,83,62327.19,0.01,0.18,2.7,1
+4551,Tablet,Toys,November,2023,South,727.91,72,52409.52,0.13,0.19,2.2,1
+4552,Router,Sports,June,2020,South,151.05,86,12990.3,0.12,0.13,2.2,1
+4553,Tablet,Electronics,April,2020,South,411.81,78,32121.18,0.25,0.14,3.3,3
+4554,Router,Toys,November,2022,East,61.69,98,6045.62,0.2,0.11,4.3,1
+4555,Laptop,Sports,January,2022,West,814.26,16,13028.16,0.19,0.19,4.3,3
+4556,Mobile Phone,Toys,November,2023,East,645.62,84,54232.08,0.15,0.06,4.2,3
+4557,Camera,Sports,January,2021,East,655.98,42,27551.16,0.05,0.2,3.1,5
+4558,Tablet,Toys,June,2023,South,502.86,95,47771.7,0,0.06,2.4,3
+4559,Mobile Phone,Fashion,February,2024,North,916.62,31,28415.22,0.05,0.16,3.6,1
+4560,Camera,Health & Beauty,December,2024,West,960.61,26,24975.86,0.22,0.06,2.8,3
+4561,Printer,Fashion,January,2021,West,319.79,76,24304.04,0.21,0.15,4.1,4
+4562,Laptop,Electronics,July,2020,East,50.52,54,2728.08,0.22,0.19,1.5,4
+4563,Mobile Phone,Fashion,June,2022,West,520.13,74,38489.62,0.3,0.17,2.5,5
+4564,Smartwatch,Fashion,January,2020,East,784.03,80,62722.4,0.22,0.08,4.3,4
+4565,Printer,Home Appliances,January,2024,North,61.82,82,5069.24,0.15,0.15,2.6,3
+4566,Router,Automotive,April,2022,North,826.39,84,69416.76,0.15,0.12,4.4,2
+4567,Smartwatch,Home Appliances,May,2024,South,492.78,24,11826.72,0.1,0.2,3.7,0
+4568,Camera,Automotive,August,2023,East,998.51,35,34947.85,0.29,0.08,2.1,2
+4569,Router,Automotive,November,2024,East,629.63,51,32111.13,0.23,0.1,1.6,5
+4570,Printer,Home Appliances,September,2024,West,413.88,41,16969.08,0.11,0.19,3.8,1
+4571,Printer,Fashion,August,2021,West,115.62,20,2312.4,0.09,0.19,2.3,1
+4572,Laptop,Toys,December,2024,South,945.66,45,42554.7,0.16,0.2,1.3,1
+4573,Smartwatch,Home Appliances,September,2024,West,943.22,4,3772.88,0.19,0.14,2.4,1
+4574,Tablet,Furniture,September,2023,East,524.52,90,47206.8,0.04,0.15,4.1,3
+4575,Smartwatch,Toys,October,2020,South,792.91,24,19029.84,0.01,0.18,2.8,5
+4576,Printer,Automotive,April,2023,West,164.39,2,328.78,0.23,0.17,2.5,2
+4577,Tablet,Home Appliances,December,2023,West,394.17,1,394.17,0.28,0.06,3.9,1
+4578,Mobile Phone,Fashion,July,2021,West,292.13,85,24831.05,0.16,0.13,4.7,3
+4579,Mobile Phone,Electronics,September,2023,West,508.34,86,43717.24,0.07,0.2,2.5,2
+4580,Mobile Phone,Toys,May,2024,South,470.04,81,38073.24,0.16,0.11,2.8,4
+4581,Tablet,Health & Beauty,March,2024,East,828.34,79,65438.86,0.28,0.17,2.9,2
+4582,Mobile Phone,Toys,March,2023,North,440,77,33880,0.02,0.15,3.5,3
+4583,Router,Electronics,March,2021,South,264.92,92,24372.64,0.06,0.18,3.6,5
+4584,Router,Automotive,July,2022,North,166.72,29,4834.88,0.09,0.09,1.4,1
+4585,Mobile Phone,Sports,January,2020,South,829.47,70,58062.9,0.19,0.14,2.9,5
+4586,Headphones,Electronics,August,2023,North,873.01,54,47142.54,0.04,0.13,2.1,4
+4587,Router,Furniture,January,2024,West,893.61,97,86680.17,0.26,0.07,1.9,2
+4588,Tablet,Health & Beauty,November,2020,South,130.16,91,11844.56,0.22,0.15,1.7,4
+4589,Headphones,Health & Beauty,May,2023,East,611.83,63,38545.29,0.3,0.06,1.1,0
+4590,Smartwatch,Furniture,December,2021,South,308.17,38,11710.46,0.16,0.16,1.7,2
+4591,Printer,Toys,September,2024,North,560.37,10,5603.7,0.03,0.06,1.6,3
+4592,Router,Fashion,April,2023,East,529.43,24,12706.32,0.06,0.08,3.3,4
+4593,Mobile Phone,Toys,October,2022,North,972.06,71,69016.26,0.29,0.18,4.6,2
+4594,Printer,Furniture,January,2021,North,532.16,20,10643.2,0.13,0.2,3.4,1
+4595,Tablet,Fashion,October,2021,East,762.6,81,61770.6,0.02,0.12,3.4,1
+4596,Printer,Fashion,June,2021,North,991.42,76,75347.92,0.16,0.17,3.5,3
+4597,Smartwatch,Automotive,August,2021,East,322.35,54,17406.9,0.27,0.08,5,0
+4598,Smartwatch,Sports,September,2022,West,914.59,94,85971.46,0.17,0.12,4.4,1
+4599,Tablet,Toys,November,2021,West,676.87,78,52795.86,0.04,0.14,3.1,3
+4600,Printer,Sports,November,2022,West,360.49,17,6128.33,0.25,0.13,3,1
+4601,Tablet,Sports,January,2021,West,776.43,23,17857.89,0.1,0.2,3.4,1
+4602,Headphones,Electronics,December,2022,East,610.48,46,28082.08,0.1,0.06,2.7,3
+4603,Smartwatch,Fashion,January,2023,West,967.56,33,31929.48,0.08,0.12,3.8,0
+4604,Tablet,Electronics,December,2024,East,570.76,36,20547.36,0.25,0.05,1.9,2
+4605,Headphones,Fashion,September,2023,North,764.04,75,57303,0.08,0.06,3.6,4
+4606,Printer,Home Appliances,March,2021,North,851.33,57,48525.81,0.09,0.19,2.5,1
+4607,Camera,Home Appliances,August,2024,North,159.01,38,6042.38,0.19,0.2,4.4,1
+4608,Laptop,Home Appliances,January,2023,West,749.63,60,44977.8,0.28,0.2,5,2
+4609,Smartwatch,Home Appliances,November,2022,West,370.66,61,22610.26,0.25,0.17,2.6,4
+4610,Headphones,Fashion,May,2020,East,554.17,81,44887.77,0.03,0.09,1.2,1
+4611,Laptop,Home Appliances,April,2022,West,471.64,40,18865.6,0.17,0.09,3.2,2
+4612,Router,Health & Beauty,August,2021,East,765.17,50,38258.5,0.04,0.13,2.2,2
+4613,Headphones,Fashion,May,2022,West,964.2,28,26997.6,0.09,0.14,1.7,4
+4614,Laptop,Sports,August,2023,North,706.54,64,45218.56,0.09,0.12,1.2,5
+4615,Smartwatch,Toys,June,2023,South,121.8,53,6455.4,0.1,0.16,2.6,5
+4616,Mobile Phone,Health & Beauty,December,2020,West,318.96,10,3189.6,0.24,0.18,1.9,2
+4617,Tablet,Health & Beauty,March,2020,West,598.41,36,21542.76,0.06,0.07,1.9,3
+4618,Mobile Phone,Toys,September,2024,West,891.38,97,86463.86,0.11,0.15,4,0
+4619,Mobile Phone,Furniture,July,2020,South,324.53,93,30181.29,0.09,0.13,2.3,1
+4620,Smartwatch,Furniture,October,2020,North,707.66,48,33967.68,0.21,0.14,4.9,4
+4621,Tablet,Toys,April,2024,North,368.55,46,16953.3,0.29,0.06,2.3,2
+4622,Printer,Sports,December,2021,North,141.6,55,7788,0.09,0.12,2.8,3
+4623,Printer,Electronics,September,2024,North,836.41,1,836.41,0.13,0.11,1.2,3
+4624,Tablet,Sports,June,2021,South,309.74,64,19823.36,0.01,0.06,4.7,2
+4625,Laptop,Automotive,November,2020,East,821.12,76,62405.12,0.17,0.11,4.8,0
+4626,Router,Electronics,August,2023,East,415.84,81,33683.04,0.02,0.11,4,1
+4627,Headphones,Home Appliances,February,2023,East,627.02,100,62702,0.3,0.06,4.8,3
+4628,Mobile Phone,Electronics,January,2021,West,706.45,89,62874.05,0.09,0.07,3.6,2
+4629,Printer,Furniture,February,2022,East,466.9,69,32216.1,0.11,0.07,3,3
+4630,Tablet,Furniture,October,2020,North,586.33,69,40456.77,0.14,0.19,1.4,0
+4631,Printer,Electronics,July,2022,North,688.16,73,50235.68,0.04,0.16,4.8,3
+4632,Mobile Phone,Home Appliances,May,2021,West,171.58,24,4117.92,0.11,0.15,2,3
+4633,Smartwatch,Automotive,September,2020,North,945.05,25,23626.25,0.04,0.13,1.4,3
+4634,Mobile Phone,Fashion,October,2022,East,600.77,4,2403.08,0.26,0.18,3.1,4
+4635,Smartwatch,Electronics,January,2024,West,875.87,16,14013.92,0.19,0.1,1.9,3
+4636,Camera,Health & Beauty,August,2020,West,110.8,100,11080,0.03,0.05,2.6,4
+4637,Mobile Phone,Automotive,July,2020,West,98.51,3,295.53,0.18,0.16,2.1,0
+4638,Router,Home Appliances,November,2022,East,369.81,88,32543.28,0.13,0.15,2,1
+4639,Mobile Phone,Sports,August,2023,West,86.26,85,7332.1,0.13,0.12,3.2,5
+4640,Tablet,Fashion,November,2021,West,702.44,7,4917.08,0,0.14,3.7,4
+4641,Mobile Phone,Electronics,October,2020,North,185.49,89,16508.61,0.13,0.11,3.6,5
+4642,Laptop,Toys,October,2022,East,307.38,29,8914.02,0.01,0.19,3.7,5
+4643,Printer,Fashion,May,2021,North,628.74,1,628.74,0.07,0.2,3.2,3
+4644,Router,Fashion,July,2024,West,920.86,95,87481.7,0.23,0.19,4.7,0
+4645,Camera,Health & Beauty,November,2022,West,363.87,33,12007.71,0.13,0.12,2.5,0
+4646,Router,Furniture,April,2022,North,291.36,50,14568,0.12,0.07,1.3,3
+4647,Tablet,Toys,October,2021,West,430.97,74,31891.78,0.18,0.13,1.1,0
+4648,Printer,Home Appliances,February,2022,East,69.71,20,1394.2,0.07,0.19,4.8,4
+4649,Camera,Health & Beauty,March,2020,West,689.33,84,57903.72,0.24,0.12,1.2,0
+4650,Router,Home Appliances,September,2023,West,342.38,66,22597.08,0.11,0.19,2.4,1
+4651,Smartwatch,Fashion,December,2021,North,943.5,44,41514,0.27,0.2,3.7,2
+4652,Headphones,Automotive,August,2020,East,843.54,69,58204.26,0.02,0.2,3.7,1
+4653,Mobile Phone,Automotive,September,2021,East,484.24,38,18401.12,0.19,0.15,1.1,2
+4654,Mobile Phone,Toys,March,2022,East,910.86,9,8197.74,0.05,0.16,3.6,4
+4655,Mobile Phone,Furniture,November,2023,East,606.29,47,28495.63,0.21,0.14,3.8,3
+4656,Camera,Sports,July,2024,South,527.81,17,8972.77,0.11,0.2,2.7,2
+4657,Router,Furniture,July,2020,East,888.01,79,70152.79,0.09,0.07,4.3,5
+4658,Smartwatch,Electronics,October,2020,West,617.36,8,4938.88,0.3,0.19,2.9,1
+4659,Camera,Furniture,February,2023,East,801.04,20,16020.8,0.1,0.14,2.8,0
+4660,Camera,Automotive,May,2022,North,466.15,77,35893.55,0.24,0.12,2.4,4
+4661,Router,Toys,May,2023,East,961.29,92,88438.68,0.22,0.07,1.7,0
+4662,Laptop,Home Appliances,August,2020,South,304.67,88,26810.96,0.24,0.14,1.4,2
+4663,Printer,Automotive,March,2024,South,671.44,43,28871.92,0.09,0.2,3.6,1
+4664,Camera,Fashion,May,2020,West,578.1,54,31217.4,0.2,0.05,1.3,1
+4665,Router,Home Appliances,August,2020,North,769.93,84,64674.12,0.24,0.11,1.9,4
+4666,Mobile Phone,Toys,December,2021,East,149.73,13,1946.49,0.12,0.12,1.8,4
+4667,Printer,Automotive,November,2023,East,218.39,70,15287.3,0.2,0.2,2.4,1
+4668,Smartwatch,Home Appliances,December,2022,South,576.8,74,42683.2,0.12,0.05,2.5,3
+4669,Mobile Phone,Automotive,May,2021,East,709.41,61,43274.01,0.01,0.06,3.6,3
+4670,Laptop,Automotive,January,2020,West,887.58,82,72781.56,0.1,0.09,3.7,1
+4671,Router,Health & Beauty,June,2023,North,338.61,27,9142.47,0.18,0.16,1.7,2
+4672,Printer,Toys,January,2023,East,240.79,17,4093.43,0.23,0.14,1.6,0
+4673,Tablet,Electronics,July,2024,East,659.53,3,1978.59,0.07,0.12,5,0
+4674,Smartwatch,Health & Beauty,July,2021,West,944.47,20,18889.4,0.21,0.08,2.3,0
+4675,Mobile Phone,Sports,February,2024,South,487.1,57,27764.7,0.14,0.05,1.9,4
+4676,Smartwatch,Health & Beauty,August,2021,West,914.67,56,51221.52,0.11,0.1,3.1,4
+4677,Camera,Electronics,November,2020,North,612.37,93,56950.41,0.1,0.09,3.1,5
+4678,Headphones,Home Appliances,October,2023,South,136.65,81,11068.65,0.12,0.16,3,3
+4679,Tablet,Health & Beauty,May,2021,South,398.67,43,17142.81,0.12,0.11,2.5,3
+4680,Smartwatch,Fashion,September,2023,West,183.11,50,9155.5,0.08,0.14,1.9,4
+4681,Camera,Health & Beauty,November,2022,East,329.12,1,329.12,0.12,0.12,1.8,4
+4682,Mobile Phone,Fashion,June,2024,East,947.92,75,71094,0.22,0.13,4,3
+4683,Printer,Toys,April,2024,South,499.69,19,9494.11,0.09,0.14,4.3,2
+4684,Headphones,Health & Beauty,May,2020,North,991,96,95136,0.24,0.09,4.3,3
+4685,Router,Sports,November,2022,West,359.21,74,26581.54,0.3,0.18,2.4,2
+4686,Tablet,Toys,March,2023,North,214.63,87,18672.81,0.3,0.16,4.4,2
+4687,Mobile Phone,Fashion,June,2020,West,352.24,7,2465.68,0.13,0.18,4.3,3
+4688,Tablet,Sports,December,2020,East,92.92,6,557.52,0.1,0.12,3.9,4
+4689,Router,Toys,December,2021,West,290.71,55,15989.05,0.18,0.05,3.5,2
+4690,Tablet,Furniture,May,2021,North,776.2,3,2328.6,0.08,0.2,3.6,3
+4691,Smartwatch,Automotive,April,2020,South,761.98,100,76198,0.11,0.2,1.6,3
+4692,Smartwatch,Sports,March,2022,South,489.83,75,36737.25,0.2,0.14,4,3
+4693,Printer,Home Appliances,December,2024,North,762.42,22,16773.24,0.01,0.2,2.7,4
+4694,Camera,Furniture,December,2024,South,126.44,26,3287.44,0.22,0.05,3.7,0
+4695,Tablet,Fashion,May,2021,South,695.24,42,29200.08,0.13,0.13,2.4,0
+4696,Tablet,Automotive,March,2022,West,716.61,11,7882.71,0.08,0.15,3.9,3
+4697,Printer,Home Appliances,June,2022,South,555.38,70,38876.6,0.17,0.18,1.2,5
+4698,Printer,Health & Beauty,May,2024,North,453.86,35,15885.1,0.09,0.08,1.9,3
+4699,Printer,Health & Beauty,November,2022,South,339.48,81,27497.88,0.29,0.18,4.5,2
+4700,Headphones,Automotive,February,2020,East,416.83,43,17923.69,0.02,0.19,1.1,3
+4701,Camera,Toys,July,2020,North,369.16,47,17350.52,0.19,0.12,4.3,5
+4702,Tablet,Electronics,April,2024,South,86.58,2,173.16,0.3,0.1,2.2,5
+4703,Smartwatch,Toys,November,2022,East,476.63,68,32410.84,0.02,0.11,4.8,3
+4704,Camera,Health & Beauty,April,2020,North,934.41,12,11212.92,0.14,0.16,1.6,4
+4705,Tablet,Toys,December,2024,West,835.61,4,3342.44,0.3,0.13,2.1,2
+4706,Mobile Phone,Home Appliances,November,2022,West,473.75,75,35531.25,0.05,0.07,1.4,2
+4707,Laptop,Automotive,July,2023,South,571.6,66,37725.6,0.17,0.13,2.1,4
+4708,Mobile Phone,Toys,June,2022,South,589.27,35,20624.45,0.24,0.17,4,4
+4709,Printer,Health & Beauty,September,2020,West,324.81,16,5196.96,0.26,0.1,1.8,4
+4710,Mobile Phone,Home Appliances,August,2022,North,136.3,74,10086.2,0.04,0.05,4.1,4
+4711,Mobile Phone,Sports,April,2021,North,678.1,3,2034.3,0.25,0.09,4.3,2
+4712,Mobile Phone,Automotive,April,2023,East,585.77,58,33974.66,0.2,0.14,2.9,1
+4713,Router,Health & Beauty,June,2020,North,119.39,45,5372.55,0,0.11,5,4
+4714,Printer,Home Appliances,October,2022,South,762.79,16,12204.64,0.23,0.11,1.8,4
+4715,Headphones,Sports,January,2024,West,363.85,91,33110.35,0.3,0.14,3,0
+4716,Headphones,Sports,September,2023,East,574.18,89,51102.02,0.22,0.17,2.8,0
+4717,Mobile Phone,Home Appliances,March,2023,West,310.71,81,25167.51,0.19,0.09,3.9,1
+4718,Router,Electronics,July,2021,North,507.32,23,11668.36,0.03,0.07,2.5,4
+4719,Camera,Electronics,September,2024,North,240.79,68,16373.72,0.08,0.05,1.2,3
+4720,Printer,Automotive,March,2024,South,966.63,70,67664.1,0.24,0.14,2.3,1
+4721,Camera,Fashion,December,2024,East,148.59,50,7429.5,0.16,0.18,1.7,5
+4722,Tablet,Automotive,November,2024,West,837.61,94,78735.34,0.17,0.12,1.2,1
+4723,Router,Sports,February,2020,South,598.02,44,26312.88,0.21,0.17,4.7,3
+4724,Printer,Toys,February,2020,East,858.72,31,26620.32,0.17,0.2,4.3,2
+4725,Mobile Phone,Automotive,April,2023,North,727.06,6,4362.36,0.13,0.13,3.1,2
+4726,Mobile Phone,Fashion,May,2021,South,63.9,3,191.7,0.08,0.16,1.1,0
+4727,Headphones,Toys,August,2024,South,519.38,72,37395.36,0,0.1,1.6,3
+4728,Laptop,Toys,March,2021,South,157.63,28,4413.64,0.1,0.16,1.5,1
+4729,Laptop,Electronics,January,2022,North,779.73,26,20272.98,0.17,0.09,1.5,2
+4730,Headphones,Home Appliances,September,2020,North,430.68,58,24979.44,0.22,0.19,3.4,0
+4731,Headphones,Furniture,July,2024,East,711.94,97,69058.18,0.19,0.2,3.9,0
+4732,Smartwatch,Home Appliances,April,2023,West,230.81,7,1615.67,0.12,0.2,3.4,3
+4733,Mobile Phone,Electronics,June,2020,East,164.56,57,9379.92,0.29,0.15,2.8,5
+4734,Headphones,Toys,June,2024,North,520.29,37,19250.73,0.28,0.12,4,0
+4735,Mobile Phone,Toys,February,2023,South,999.93,18,17998.74,0.11,0.18,4.8,5
+4736,Camera,Fashion,December,2022,South,988.3,10,9883,0.29,0.09,4.6,1
+4737,Printer,Toys,June,2021,South,173.21,35,6062.35,0.17,0.06,4.4,2
+4738,Laptop,Home Appliances,November,2021,West,682.85,98,66919.3,0.11,0.1,4.4,1
+4739,Printer,Home Appliances,August,2022,East,738.13,98,72336.74,0.25,0.11,2.5,5
+4740,Printer,Furniture,December,2021,East,515.15,88,45333.2,0.05,0.11,3.2,0
+4741,Printer,Furniture,October,2020,East,251.38,39,9803.82,0,0.13,1.1,1
+4742,Camera,Fashion,September,2022,West,195.04,91,17748.64,0.17,0.11,1.9,1
+4743,Smartwatch,Health & Beauty,November,2023,East,861.82,77,66360.14,0.1,0.2,4.1,3
+4744,Camera,Sports,June,2020,East,577.1,23,13273.3,0.03,0.07,1.5,3
+4745,Headphones,Automotive,August,2021,South,688.25,60,41295,0,0.13,4.3,3
+4746,Mobile Phone,Home Appliances,January,2020,West,985.79,27,26616.33,0.25,0.1,1.3,1
+4747,Mobile Phone,Fashion,October,2023,East,998.96,2,1997.92,0.26,0.15,4.2,4
+4748,Headphones,Health & Beauty,January,2022,South,609.21,26,15839.46,0.24,0.09,3.7,0
+4749,Laptop,Home Appliances,August,2023,West,607.15,15,9107.25,0.27,0.11,1.1,2
+4750,Router,Furniture,March,2020,North,646.03,36,23257.08,0.19,0.1,2.4,0
+4751,Smartwatch,Home Appliances,May,2021,North,671.82,48,32247.36,0.1,0.16,3.6,3
+4752,Mobile Phone,Health & Beauty,December,2022,North,559.69,7,3917.83,0.26,0.15,1.5,0
+4753,Laptop,Health & Beauty,April,2020,West,699.69,3,2099.07,0.04,0.19,4.9,3
+4754,Camera,Automotive,January,2024,South,853.32,2,1706.64,0.03,0.11,4.2,4
+4755,Tablet,Furniture,August,2020,South,909.77,70,63683.9,0.26,0.17,1.6,3
+4756,Router,Sports,September,2023,East,283.05,47,13303.35,0.25,0.16,4.7,3
+4757,Camera,Furniture,February,2023,South,239.9,7,1679.3,0.07,0.08,2.4,5
+4758,Router,Furniture,November,2024,West,850.68,48,40832.64,0.17,0.09,4.4,5
+4759,Camera,Health & Beauty,August,2024,South,565.36,2,1130.72,0.23,0.11,2.3,5
+4760,Printer,Electronics,December,2024,North,151.39,33,4995.87,0.22,0.16,3.7,1
+4761,Printer,Home Appliances,August,2022,East,691.95,25,17298.75,0.26,0.1,1,2
+4762,Camera,Electronics,April,2021,West,599.57,39,23383.23,0.24,0.17,1.8,2
+4763,Mobile Phone,Furniture,March,2024,South,553.44,20,11068.8,0.26,0.18,1.5,1
+4764,Headphones,Automotive,March,2022,East,256.48,57,14619.36,0.18,0.06,4.7,1
+4765,Router,Health & Beauty,January,2024,South,864.88,76,65730.88,0.08,0.19,4.9,1
+4766,Tablet,Fashion,November,2023,West,532.96,11,5862.56,0.11,0.15,3.6,0
+4767,Mobile Phone,Home Appliances,October,2020,West,630.01,96,60480.96,0.16,0.1,2.1,4
+4768,Tablet,Sports,October,2020,South,661.3,14,9258.2,0.16,0.06,4.7,0
+4769,Smartwatch,Fashion,April,2022,East,835.27,99,82691.73,0.13,0.17,3.1,1
+4770,Camera,Home Appliances,January,2020,South,877.87,32,28091.84,0.08,0.16,1.4,1
+4771,Laptop,Furniture,January,2024,North,705.15,31,21859.65,0,0.16,4.8,3
+4772,Router,Electronics,October,2020,South,630.28,55,34665.4,0.29,0.11,1,3
+4773,Camera,Automotive,February,2023,East,218.34,57,12445.38,0.01,0.05,2,4
+4774,Camera,Health & Beauty,March,2021,South,778.4,40,31136,0.07,0.08,3.9,1
+4775,Tablet,Sports,October,2023,North,552.61,6,3315.66,0.15,0.11,2.1,1
+4776,Printer,Furniture,March,2024,West,157.45,7,1102.15,0.16,0.17,1.4,4
+4777,Laptop,Electronics,March,2021,North,883.29,83,73313.07,0.19,0.19,2.1,0
+4778,Router,Electronics,November,2021,West,466.16,45,20977.2,0.12,0.12,1.1,3
+4779,Headphones,Health & Beauty,April,2022,North,812.82,76,61774.32,0.05,0.11,2.4,1
+4780,Headphones,Fashion,July,2024,North,611.55,89,54427.95,0.25,0.07,3.4,2
+4781,Tablet,Electronics,March,2021,South,70.52,20,1410.4,0.17,0.18,1.1,3
+4782,Smartwatch,Toys,June,2024,South,214.96,45,9673.2,0.24,0.18,2.6,0
+4783,Headphones,Electronics,May,2020,North,960.77,89,85508.53,0.23,0.11,4.5,5
+4784,Camera,Health & Beauty,May,2022,North,482.49,14,6754.86,0.28,0.13,3.5,2
+4785,Tablet,Automotive,July,2022,South,865.26,89,77008.14,0.22,0.15,4.3,5
+4786,Printer,Automotive,November,2023,North,908.86,1,908.86,0.27,0.14,2.1,0
+4787,Printer,Home Appliances,March,2022,West,634.75,57,36180.75,0.28,0.08,4.4,4
+4788,Router,Furniture,November,2021,East,990.64,85,84204.4,0.06,0.05,1.5,5
+4789,Router,Health & Beauty,May,2022,West,721.16,89,64183.24,0.01,0.12,1.6,2
+4790,Laptop,Electronics,December,2023,South,735.55,15,11033.25,0.06,0.2,3.6,4
+4791,Tablet,Home Appliances,January,2022,North,84.92,38,3226.96,0.21,0.13,3.4,1
+4792,Router,Toys,March,2020,North,476.7,83,39566.1,0.3,0.19,1.3,0
+4793,Router,Furniture,April,2024,West,605.3,26,15737.8,0.25,0.09,4.9,5
+4794,Printer,Fashion,April,2021,North,812.7,40,32508,0.18,0.15,1.7,1
+4795,Smartwatch,Sports,January,2024,North,484.41,33,15985.53,0,0.13,2.5,0
+4796,Tablet,Furniture,January,2022,North,352,63,22176,0.29,0.19,4.6,2
+4797,Headphones,Health & Beauty,February,2022,South,929.95,23,21388.85,0.01,0.18,2.7,0
+4798,Tablet,Electronics,November,2022,East,433.96,100,43396,0.19,0.15,4.4,4
+4799,Camera,Home Appliances,September,2021,North,120.56,5,602.8,0.16,0.15,2.9,5
+4800,Laptop,Electronics,February,2022,East,79.86,46,3673.56,0.13,0.2,2,1
+4801,Printer,Fashion,September,2021,North,664.23,55,36532.65,0.03,0.16,1.7,5
+4802,Laptop,Fashion,December,2022,East,63.04,50,3152,0.07,0.06,3.9,1
+4803,Headphones,Home Appliances,February,2020,North,654.02,53,34663.06,0.11,0.14,4.3,1
+4804,Mobile Phone,Automotive,October,2023,South,818.52,18,14733.36,0.19,0.05,2.6,3
+4805,Tablet,Furniture,December,2022,South,922.04,40,36881.6,0.09,0.1,1.6,4
+4806,Smartwatch,Automotive,March,2022,North,318.1,92,29265.2,0.22,0.1,2.4,0
+4807,Router,Toys,June,2021,East,552.39,52,28724.28,0.27,0.1,3.8,3
+4808,Router,Fashion,September,2022,North,297.93,7,2085.51,0.24,0.19,4,2
+4809,Smartwatch,Home Appliances,February,2024,West,520.97,88,45845.36,0.1,0.15,2.4,4
+4810,Laptop,Sports,August,2021,East,309.85,54,16731.9,0.23,0.14,1.5,0
+4811,Smartwatch,Home Appliances,August,2020,South,996.8,2,1993.6,0.21,0.09,4.1,2
+4812,Laptop,Furniture,April,2023,South,735.29,30,22058.7,0.27,0.2,1.7,2
+4813,Camera,Furniture,August,2023,West,330.7,57,18849.9,0.11,0.07,3.5,4
+4814,Router,Sports,October,2023,North,81.86,85,6958.1,0.06,0.12,2.7,2
+4815,Smartwatch,Sports,September,2020,South,520.77,81,42182.37,0.1,0.07,2.8,1
+4816,Laptop,Fashion,August,2024,East,880.77,79,69580.83,0.05,0.15,4.8,3
+4817,Laptop,Toys,February,2023,South,562.78,66,37143.48,0.16,0.08,5,5
+4818,Router,Furniture,May,2021,South,908.13,27,24519.51,0.1,0.05,4.8,3
+4819,Tablet,Furniture,February,2022,North,690.67,34,23482.78,0.07,0.19,1.9,4
+4820,Smartwatch,Automotive,June,2021,North,386.46,91,35167.86,0.2,0.2,1.7,5
+4821,Mobile Phone,Fashion,December,2023,East,230,60,13800,0.09,0.1,1.8,0
+4822,Printer,Furniture,April,2024,North,304.34,44,13390.96,0.02,0.19,1.6,5
+4823,Tablet,Furniture,November,2023,North,81.27,24,1950.48,0.04,0.14,1.4,4
+4824,Headphones,Electronics,July,2022,North,88.67,11,975.37,0.09,0.07,1.2,1
+4825,Router,Electronics,January,2023,South,171.32,37,6338.84,0.02,0.13,4,5
+4826,Printer,Home Appliances,August,2020,West,455.72,65,29621.8,0.23,0.16,4.9,3
+4827,Mobile Phone,Sports,April,2023,South,668.45,74,49465.3,0.24,0.18,4,1
+4828,Camera,Home Appliances,February,2022,East,918.04,21,19278.84,0.02,0.1,4.1,5
+4829,Camera,Toys,June,2024,West,253.14,40,10125.6,0.16,0.12,1.8,0
+4830,Headphones,Home Appliances,January,2020,East,252.71,90,22743.9,0.09,0.11,1.8,5
+4831,Router,Toys,November,2022,West,547.88,75,41091,0.19,0.13,4.3,0
+4832,Tablet,Automotive,May,2024,South,722.77,50,36138.5,0.04,0.06,3.2,1
+4833,Mobile Phone,Fashion,May,2020,West,862.08,17,14655.36,0.16,0.08,4.9,0
+4834,Printer,Fashion,October,2022,West,925.87,51,47219.37,0.12,0.2,2.9,1
+4835,Smartwatch,Sports,December,2022,East,868.1,73,63371.3,0.16,0.11,3.6,0
+4836,Tablet,Health & Beauty,March,2021,West,964.85,40,38594,0.14,0.08,2,3
+4837,Laptop,Home Appliances,February,2021,South,691.55,62,42876.1,0.12,0.15,1.4,1
+4838,Camera,Fashion,March,2024,North,573.68,45,25815.6,0.17,0.17,4.3,4
+4839,Printer,Home Appliances,June,2020,East,409.2,60,24552,0.03,0.17,2.1,3
+4840,Smartwatch,Automotive,November,2024,South,345.21,48,16570.08,0.27,0.16,3.7,5
+4841,Headphones,Toys,May,2022,East,653.43,76,49660.68,0.11,0.08,1.1,1
+4842,Smartwatch,Fashion,November,2020,West,880.75,41,36110.75,0.08,0.18,3.8,0
+4843,Camera,Furniture,November,2021,West,853.72,66,56345.52,0.27,0.13,1.6,2
+4844,Printer,Electronics,February,2022,North,499.4,64,31961.6,0.11,0.17,1.5,5
+4845,Router,Toys,January,2020,East,308.92,41,12665.72,0.3,0.16,2.2,5
+4846,Mobile Phone,Electronics,August,2021,South,368.22,75,27616.5,0.06,0.06,3.6,1
+4847,Mobile Phone,Home Appliances,January,2021,West,821.22,35,28742.7,0.18,0.11,2.6,3
+4848,Smartwatch,Toys,June,2023,South,967.52,81,78369.12,0.28,0.19,1.5,3
+4849,Tablet,Electronics,December,2021,East,268.61,78,20951.58,0.03,0.13,1.1,2
+4850,Smartwatch,Furniture,September,2024,East,176.72,70,12370.4,0.02,0.15,3.6,4
+4851,Laptop,Sports,December,2023,North,661.88,52,34417.76,0,0.2,5,1
+4852,Router,Furniture,June,2022,East,776.16,4,3104.64,0.09,0.09,2.8,4
+4853,Tablet,Health & Beauty,February,2020,North,415.99,58,24127.42,0.19,0.17,1.8,3
+4854,Tablet,Furniture,March,2023,North,280.13,64,17928.32,0.11,0.11,3.1,3
+4855,Tablet,Furniture,December,2021,West,269.31,96,25853.76,0.14,0.16,2.4,3
+4856,Printer,Health & Beauty,September,2021,West,997.83,43,42906.69,0.14,0.06,1.4,5
+4857,Mobile Phone,Fashion,August,2021,East,68.67,94,6454.98,0.04,0.18,3.8,1
+4858,Mobile Phone,Furniture,November,2021,East,736.95,2,1473.9,0.2,0.09,4.8,2
+4859,Router,Automotive,February,2022,South,534,46,24564,0.18,0.1,4.8,3
+4860,Camera,Toys,November,2024,East,835.31,37,30906.47,0.3,0.13,1.8,5
+4861,Headphones,Automotive,April,2024,East,718.35,99,71116.65,0.05,0.12,2.6,3
+4862,Tablet,Toys,February,2021,North,682.57,29,19794.53,0.22,0.11,2,4
+4863,Router,Fashion,December,2021,South,623.24,19,11841.56,0.2,0.09,1.4,5
+4864,Smartwatch,Electronics,January,2021,South,277.35,13,3605.55,0.22,0.19,4.2,3
+4865,Headphones,Toys,March,2021,East,145.11,76,11028.36,0.14,0.08,4,5
+4866,Laptop,Home Appliances,May,2024,South,121.7,26,3164.2,0,0.17,3.2,1
+4867,Printer,Sports,June,2022,South,543.98,81,44062.38,0.26,0.07,3,1
+4868,Headphones,Electronics,July,2023,East,887.05,60,53223,0.03,0.17,3.8,3
+4869,Smartwatch,Toys,January,2022,West,949.67,57,54131.19,0.01,0.09,1.7,3
+4870,Headphones,Health & Beauty,October,2023,South,388.27,92,35720.84,0.07,0.15,3.1,1
+4871,Tablet,Home Appliances,June,2020,East,321.35,93,29885.55,0.2,0.18,1,4
+4872,Mobile Phone,Automotive,July,2023,South,575.66,85,48931.1,0.13,0.11,4,3
+4873,Tablet,Furniture,October,2020,North,474.53,44,20879.32,0.02,0.11,2.7,0
+4874,Mobile Phone,Health & Beauty,December,2021,South,204.47,72,14721.84,0.16,0.06,1.7,5
+4875,Laptop,Furniture,February,2024,West,733.52,99,72618.48,0.05,0.12,3.9,0
+4876,Smartwatch,Home Appliances,March,2023,East,822.5,81,66622.5,0.03,0.06,1.4,3
+4877,Mobile Phone,Furniture,November,2024,North,253.04,63,15941.52,0.26,0.19,1,5
+4878,Printer,Automotive,July,2020,North,71.47,41,2930.27,0.14,0.09,2.3,1
+4879,Printer,Automotive,October,2022,West,537.73,72,38716.56,0.05,0.16,4.3,5
+4880,Tablet,Electronics,October,2022,North,224.47,93,20875.71,0.13,0.2,1.8,0
+4881,Smartwatch,Automotive,November,2020,East,309.91,76,23553.16,0.08,0.16,4.3,3
+4882,Smartwatch,Sports,August,2024,East,174.54,93,16232.22,0.02,0.05,2.8,3
+4883,Laptop,Electronics,July,2024,South,717.65,81,58129.65,0.2,0.06,2.7,4
+4884,Headphones,Automotive,March,2023,South,313.62,45,14112.9,0.21,0.12,4.9,4
+4885,Headphones,Electronics,August,2024,West,676.18,53,35837.54,0.14,0.17,3.9,2
+4886,Mobile Phone,Toys,September,2023,South,749.62,38,28485.56,0.19,0.05,1.4,2
+4887,Printer,Sports,October,2022,North,752.2,78,58671.6,0.22,0.15,2.3,1
+4888,Printer,Home Appliances,January,2024,South,549.98,98,53898.04,0.11,0.19,3,5
+4889,Laptop,Furniture,December,2023,North,547.61,52,28475.72,0.27,0.11,2.2,0
+4890,Headphones,Fashion,December,2023,East,344.17,66,22715.22,0,0.12,2,1
+4891,Smartwatch,Furniture,December,2023,North,578.77,27,15626.79,0.24,0.09,3.6,2
+4892,Laptop,Home Appliances,April,2021,East,336.71,76,25589.96,0.1,0.05,4.3,0
+4893,Smartwatch,Sports,October,2021,East,272.45,20,5449,0.24,0.17,4,3
