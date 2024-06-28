@@ -1,0 +1,351 @@
+id,title,publish_day,publish_month,publish_year,video_type,duration_seconds,view,like,comment,impression,revenue
+101,A Culinary Tour of Delhi,11,September,2021,Shorts,1063,149.825,49.808,6.425,3238.741,127.978
+102,The Festivals of India,18,November,2020,Long,1603,420.785,17.437,7.081,1299.846,67.297
+103,The Spices of India,22,April,2020,Long,1685,877.148,11.65,9.789,1308.565,101.591
+104,Exploring the Rann of Kutch,21,October,2019,Long,975,960.08,51.728,9.207,3109.457,192.775
+105,A Day in the Life of an Indian Farmer,23,November,2021,Long,1406,232.668,28.608,4.286,585.461,91.28
+106,A Journey through Rajasthan,5,May,2020,Shorts,614,803.159,61.937,1.017,2980.003,77.797
+107,Bollywood: Behind the Scenes,26,November,2020,Long,578,347.19,27.652,3.54,2034.07,76.377
+108,The Festivals of India,26,August,2020,Long,1649,644.896,43.262,6.985,2533.994,176.851
+109,Exploring the Taj Mahal,9,May,2019,Shorts,286,157.019,67.044,6.496,2033.542,86.073
+110,The Spices of India,20,October,2019,Long,293,524.371,49.629,7.358,2149.937,191.121
+111,Wildlife of the Sundarbans,28,May,2019,Shorts,562,488.448,18.923,6.145,2797.226,119.391
+112,A Culinary Tour of Delhi,6,October,2020,Long,1564,633.285,39.671,4.962,1351.539,168.232
+113,Exploring the Taj Mahal,17,July,2019,Long,1347,893.774,63.836,8.656,1305.612,36.753
+114,The Indian Independence Movement,6,February,2020,Shorts,1015,927.199,53.015,2.783,1004.23,125.012
+115,The Festivals of India,23,August,2019,Long,1725,303.003,21.956,6.073,3861.095,165.912
+116,Life in a Small Indian Village,7,May,2020,Shorts,1558,338.952,15.012,6.508,2606.286,164.051
+117,Exploring the Rann of Kutch,20,January,2020,Shorts,1334,714.642,58.211,3.471,2121.683,195.032
+118,A Day in the Life of an Indian Farmer,20,November,2020,Long,447,960.943,10.98,1.976,1244.247,107.042
+119,The Markets of Kolkata,7,October,2021,Shorts,1506,396.389,64.766,4.579,3530.733,92.134
+120,The History of the Mughal Empire,14,April,2021,Long,780,119.35,42.462,4.456,2631.409,74.024
+121,The Temples of South India,20,March,2020,Shorts,493,207.148,36.042,9.776,1186.62,156.422
+122,The Markets of Kolkata,2,August,2020,Long,1054,374.389,15.234,8.497,1025.341,172.174
+123,The Temples of South India,16,September,2021,Long,1239,213.725,44.737,4.503,3190.457,40.918
+124,The Indian Independence Movement,15,November,2019,Shorts,996,137.522,13.585,2.453,3244.221,195.567
+125,The Spices of India,14,March,2021,Shorts,1709,843.21,50.031,0.581,1791.875,93.465
+126,Exploring the Taj Mahal,14,July,2021,Long,821,911.458,40.865,9.24,2073.684,108.114
+127,A Journey through Rajasthan,10,November,2020,Long,1383,465.51,21.691,6.977,1389.99,187.692
+128,The Spices of India,19,December,2020,Shorts,440,697.515,51.016,3.119,3431.143,104.548
+129,A Tour of Mumbai,12,April,2019,Long,1459,168.03,47.443,4.119,835.676,154.83
+130,Life in a Small Indian Village,5,October,2019,Long,1625,370.546,16.013,3.384,1910.516,97.628
+131,Bollywood: Behind the Scenes,12,September,2021,Long,299,675.102,57.134,6.679,3810.042,143.745
+132,The Temples of South India,16,November,2021,Shorts,310,799.889,66.032,4.564,2850.903,84.956
+133,The Markets of Kolkata,9,August,2021,Shorts,726,796.514,33.845,5.053,1951.217,99.72
+134,The Markets of Kolkata,9,February,2019,Shorts,747,363.358,20.776,5.608,708.185,26.437
+135,A Culinary Tour of Delhi,25,July,2019,Shorts,290,187.095,32.403,5.933,2445.072,30.482
+136,The Temples of South India,11,August,2020,Shorts,1660,259.752,68.122,4.266,2105.953,184.744
+137,Exploring the Rann of Kutch,10,January,2019,Long,1417,484.733,44.872,9.134,2454.506,154.773
+138,The History of the Mughal Empire,1,July,2020,Long,385,579.248,12.696,7.67,2104.554,170.371
+139,Exploring the Taj Mahal,12,March,2019,Long,1007,666.445,18.566,9.189,1131.821,160.097
+140,A Day in the Life of an Indian Farmer,26,August,2020,Long,1461,352.53,34.149,9.346,1383.345,110.923
+141,The Markets of Kolkata,10,July,2021,Long,960,308.025,65.466,3.659,3395.465,162.371
+142,The Temples of South India,10,January,2020,Shorts,1711,834.498,29.41,0.966,1678.248,134.45
+143,The Festivals of India,4,May,2021,Shorts,1137,837.816,27.913,6.712,1009.145,170.605
+144,Traditional Indian Weddings,19,November,2019,Long,1704,931.57,50.456,2.455,2640.794,121.364
+145,Traditional Indian Weddings,7,July,2021,Long,853,144.074,30.383,0.653,1958.764,62.736
+146,The Art of Indian Dance,3,August,2019,Long,1275,159.709,50.267,1.508,3129.422,109.073
+147,Exploring the Ganges River,27,September,2019,Shorts,563,929.716,46.776,5.35,2600.958,161.287
+148,Exploring the Rann of Kutch,27,January,2020,Long,529,597.746,57.354,8.132,1016.558,50.668
+149,Discovering the Backwaters of Kerala,23,January,2020,Long,1756,208.474,12.119,6.209,3154.898,184.447
+150,A Tour of Mumbai,14,October,2020,Shorts,1298,630.581,23.348,4.104,3352.817,146.267
+151,A Culinary Tour of Delhi,26,April,2020,Long,1033,135.332,68.108,9.773,3698.407,156.695
+152,The History of the Mughal Empire,23,August,2020,Shorts,1313,771.376,11.705,5.159,3923.766,112.166
+153,Traditional Indian Weddings,7,April,2020,Long,949,249.926,48.059,4.58,2619.057,54.624
+154,Life in a Small Indian Village,1,April,2020,Shorts,957,934.592,24.846,3.338,826.791,106.01
+155,A Day in the Life of an Indian Farmer,10,October,2020,Shorts,627,355.317,14.594,2.261,1789.081,171.928
+156,The Markets of Kolkata,21,July,2021,Shorts,1330,505.919,13.962,5.539,3028.23,195.769
+157,The Festivals of India,2,May,2019,Shorts,900,444.068,53.031,6.066,3307.49,191.229
+158,A Journey through Rajasthan,7,March,2020,Shorts,1605,219.294,11.058,2.08,3040.981,110.317
+159,A Tour of Mumbai,5,January,2019,Shorts,469,427.142,42.763,6.483,2733.911,133.043
+160,A Tour of Mumbai,20,April,2021,Shorts,1738,148.2,38.552,8.064,1865.657,142.502
+161,The Spices of India,4,September,2020,Shorts,1422,513.143,15.948,6.836,900.269,166.705
+162,A Tour of Mumbai,1,February,2020,Long,373,220.893,14.045,8.958,3331.622,89.285
+163,Exploring the Rann of Kutch,9,June,2019,Shorts,1095,511.553,26.746,4.387,1854.823,61.855
+164,A Journey through Rajasthan,3,March,2021,Long,1594,500.604,63.85,6.936,637.655,161.533
+165,The Art of Indian Dance,18,August,2020,Shorts,1121,237.685,12.243,4.955,2506.699,165.573
+166,Life in a Small Indian Village,16,April,2019,Long,1399,462.044,17.601,7.783,3323.973,145.793
+167,The Art of Indian Dance,21,October,2021,Long,1061,274.614,63.701,3.423,3225.943,83.123
+168,Traditional Indian Weddings,5,November,2021,Shorts,1381,781.168,24.535,1.317,1485.538,187.428
+169,A Journey through Rajasthan,22,May,2020,Shorts,972,391.802,57.896,1.819,1049.296,174.254
+170,The Mysteries of the Himalayas,11,July,2021,Long,1786,743,58.312,8.036,2347.923,77.111
+171,The Festivals of India,21,January,2020,Long,1668,855.869,53.33,7.264,3557.296,90.774
+172,Traditional Indian Weddings,1,September,2019,Shorts,1783,251.989,60.736,6.325,853.346,31.891
+173,A Day in the Life of an Indian Farmer,22,October,2019,Shorts,295,991.361,33.863,9.263,918.01,122.169
+174,Exploring the Rann of Kutch,12,July,2019,Shorts,1716,475.165,68.774,5.901,1358.029,62.452
+175,Exploring the Rann of Kutch,4,March,2020,Long,718,828.76,15.844,9.719,919.475,108.442
+176,Traditional Indian Weddings,23,June,2020,Long,1480,624.585,55.196,8.553,1009.008,192.294
+177,The Temples of South India,17,March,2021,Long,1695,207.353,60.458,9.302,1666.689,58.253
+178,The Mysteries of the Himalayas,6,July,2019,Shorts,1677,625.737,47.448,4.941,2559.93,145.172
+179,The History of the Mughal Empire,23,November,2021,Shorts,1242,180.506,38.048,8.904,2855.441,61.983
+180,The Markets of Kolkata,19,October,2020,Shorts,1217,473.092,38.627,0.756,885.302,83.464
+181,The Art of Indian Dance,14,December,2021,Long,968,235.528,68.966,1.061,2485.158,184.818
+182,The Markets of Kolkata,3,May,2020,Shorts,1228,203.169,15.173,8.869,591.023,120.758
+183,The Mysteries of the Himalayas,9,October,2019,Shorts,729,501.61,50.386,9.246,3191.195,151.018
+184,A Journey through Rajasthan,26,November,2019,Long,1346,564.907,25.208,5.785,629.909,185.994
+185,Bollywood: Behind the Scenes,19,February,2021,Shorts,446,334.895,37.222,2.348,1433.176,118.937
+186,Traditional Indian Weddings,28,February,2021,Shorts,1131,513.721,51.88,5.981,2361.099,145.06
+187,The Mysteries of the Himalayas,24,May,2020,Long,564,450.707,26.565,8.831,2932.113,40.219
+188,The Temples of South India,11,August,2021,Long,1426,807.958,55.42,2.716,884.91,149.534
+189,Exploring the Taj Mahal,22,December,2020,Long,1263,819.182,46.309,0.837,3832.305,74.712
+190,A Culinary Tour of Delhi,3,December,2021,Long,1233,842.194,62.231,5.496,2618.122,189.017
+191,The Mysteries of the Himalayas,23,August,2021,Long,1331,205.836,26.856,6.57,2789.529,173.46
+192,A Tour of Mumbai,5,April,2021,Long,669,989.797,60.358,4.165,2906.258,34.704
+193,The Spices of India,14,November,2019,Shorts,1514,807.885,42.407,9.101,3571.694,99.796
+194,Bollywood: Behind the Scenes,8,April,2019,Shorts,339,407.011,17.801,3.504,925.101,176.159
+195,Exploring the Taj Mahal,10,October,2019,Shorts,808,717.844,11.29,4.358,1470.027,104.998
+196,A Day in the Life of an Indian Farmer,3,November,2019,Shorts,236,514.083,12.013,5.172,1345.36,78.63
+197,The Art of Indian Dance,20,September,2019,Shorts,212,911.225,36.175,2.079,3372.707,92.689
+198,Exploring the Taj Mahal,21,April,2020,Shorts,324,397.924,60.192,6.137,1595.189,190.714
+199,A Journey through Rajasthan,13,April,2019,Long,339,510.024,51.494,1.82,2033.441,160.434
+200,A Tour of Mumbai,4,March,2019,Long,472,776.064,41.162,6.828,1788.004,43.305
+201,The Festivals of India,25,May,2019,Shorts,1157,171.091,63.376,7.809,2426.309,184.54
+202,The Art of Indian Dance,10,January,2019,Long,223,878.611,26.28,2.792,2629.538,102.235
+203,The History of the Mughal Empire,25,November,2020,Long,1292,461.837,60.151,3.124,2477.238,24.347
+204,The Mysteries of the Himalayas,25,October,2019,Shorts,308,759.902,20.133,5.384,3735.639,172.871
+205,Bollywood: Behind the Scenes,23,January,2020,Shorts,888,905.67,52.919,1.735,1720.398,199.22
+206,The Art of Indian Dance,20,June,2020,Shorts,1250,498.703,51.7,6.152,582.382,174.654
+207,Life in a Small Indian Village,12,December,2019,Shorts,1288,259.835,61.537,2.469,3357.871,62.245
+208,A Day in the Life of an Indian Farmer,14,October,2020,Long,1216,211.108,53.96,9.802,982.738,39.223
+209,The Spices of India,23,December,2020,Long,1355,787.168,26.431,4.705,3975.533,20.987
+210,Traditional Indian Weddings,12,February,2021,Long,989,712.262,20.122,4.878,1892.554,63.423
+211,The History of the Mughal Empire,27,July,2019,Shorts,932,835.12,50.087,1.05,2519.697,59.596
+212,A Tour of Mumbai,22,March,2019,Long,1089,618.61,36.779,6.993,1671.876,81.974
+213,The Festivals of India,26,June,2019,Long,1107,167.737,33.094,9.009,3567.006,39.696
+214,Discovering the Backwaters of Kerala,21,March,2021,Shorts,1304,899.284,31.949,6.295,2698.933,113.775
+215,The Markets of Kolkata,7,March,2020,Shorts,642,572.967,69.175,6.479,1333.097,31.582
+216,A Culinary Tour of Delhi,6,April,2021,Shorts,1636,794.502,66.165,7.178,1896.436,126.75
+217,The Markets of Kolkata,22,July,2019,Shorts,1429,148.854,63.938,7.415,1927.145,118.157
+218,Traditional Indian Weddings,6,September,2021,Shorts,737,795.228,62.491,4.426,1424.026,41.124
+219,A Journey through Rajasthan,4,November,2019,Long,1563,471.42,30.05,1.831,3031.618,141.927
+220,Exploring the Rann of Kutch,21,October,2021,Shorts,834,443.414,34.485,3.052,1923.368,50.486
+221,The Temples of South India,20,October,2019,Long,839,835.757,48.916,1.011,1250.699,89.494
+222,Life in a Small Indian Village,1,August,2020,Long,1513,615.365,11.446,6.758,3067.608,82.237
+223,The History of the Mughal Empire,10,March,2019,Shorts,545,559.809,22.752,6.726,1820.589,193.149
+224,Wildlife of the Sundarbans,6,December,2021,Shorts,824,351.516,56.253,6.097,2078.218,82.793
+225,A Journey through Rajasthan,21,February,2021,Shorts,1517,165.714,38.847,5.787,3997.428,194.292
+226,Discovering the Backwaters of Kerala,15,December,2020,Shorts,1751,967.411,42.58,6.959,932.971,24.157
+227,The Festivals of India,20,February,2019,Long,786,987.889,19.048,5.632,2436.285,186.161
+228,The History of the Mughal Empire,4,March,2021,Shorts,772,947.38,44.365,8.622,1344.274,123.023
+229,The Mysteries of the Himalayas,24,November,2019,Shorts,1448,130.128,18.184,3.915,3796.119,128.799
+230,Exploring the Ganges River,20,August,2021,Shorts,915,502.087,54.879,2.151,1268.839,78.705
+231,A Journey through Rajasthan,8,January,2020,Shorts,492,667.881,62.655,3.098,1484.84,138.988
+232,The Spices of India,21,June,2021,Shorts,1096,816.681,25.099,4.321,675.301,56.422
+233,A Culinary Tour of Delhi,15,July,2020,Long,561,557.383,37.868,8.156,2809.985,22.823
+234,The Temples of South India,5,March,2020,Long,800,983.501,43.424,5.984,3665.137,20.964
+235,The Mysteries of the Himalayas,7,August,2020,Long,1007,537.278,39.977,4.63,3065.973,123.34
+236,Traditional Indian Weddings,5,April,2021,Shorts,1351,454.047,14.914,7.411,2819.562,106.401
+237,Traditional Indian Weddings,13,September,2021,Long,265,803.153,60.647,7.895,899.908,169.206
+238,A Culinary Tour of Delhi,23,November,2020,Long,1795,478.856,24.31,3.736,1085.944,28.285
+239,A Culinary Tour of Delhi,23,March,2021,Shorts,254,307.107,65.191,6.728,1175.916,122.409
+240,Traditional Indian Weddings,12,January,2020,Shorts,749,169.212,13.066,6.568,3252.475,74.416
+241,A Tour of Mumbai,27,January,2021,Shorts,553,305.039,18.348,7.927,2529.633,92.99
+242,The Festivals of India,10,March,2020,Shorts,1653,138.819,46.329,8.548,2905.658,100.808
+243,A Culinary Tour of Delhi,16,March,2020,Shorts,1402,133.135,23.454,7.003,2236.302,194.78
+244,A Journey through Rajasthan,27,October,2019,Long,311,932.27,44.749,1.063,2959.87,151.994
+245,A Tour of Mumbai,15,September,2019,Shorts,1761,912.667,41.862,9.265,2574.846,45.674
+246,The Markets of Kolkata,27,March,2020,Long,1533,248.549,25.401,8.248,1423.374,106.835
+247,Life in a Small Indian Village,28,May,2021,Shorts,1133,193.087,56.576,3.667,1798.321,179.908
+248,A Culinary Tour of Delhi,8,June,2019,Long,982,107.099,20.995,2.529,3002.2,56.277
+249,Discovering the Backwaters of Kerala,18,April,2021,Long,336,692.615,22.227,7.648,3856.402,65.091
+250,Bollywood: Behind the Scenes,6,November,2021,Shorts,844,258.059,51.196,8.883,862.158,186.245
+251,The Spices of India,14,September,2020,Long,418,721.372,10.825,6.883,1894.467,193.862
+252,A Journey through Rajasthan,24,October,2021,Long,278,819.406,17.863,1.852,3690.484,117.89
+253,Discovering the Backwaters of Kerala,7,February,2019,Shorts,1248,494.503,28.21,8.232,2776.682,57.32
+254,Life in a Small Indian Village,9,December,2020,Long,1058,487.429,55.515,0.852,2454.621,184.218
+255,The Indian Independence Movement,23,July,2021,Shorts,1729,757.124,68.214,7.224,3040.368,161.16
+256,The Mysteries of the Himalayas,18,August,2021,Long,1652,393.058,31.505,4.354,2185.547,129.723
+257,Discovering the Backwaters of Kerala,23,July,2021,Shorts,594,699.743,14.801,5.016,2629.052,162.115
+258,The Markets of Kolkata,8,July,2019,Long,1720,900.329,65.282,9.737,1405.699,154.049
+259,Traditional Indian Weddings,18,March,2019,Shorts,949,311.943,17.06,4.636,1963.712,96.485
+260,A Culinary Tour of Delhi,15,June,2020,Shorts,1550,832.711,66.614,5.967,1181.366,38.029
+261,The Art of Indian Dance,23,March,2020,Long,527,229.436,33.745,6.645,2842.617,57.302
+262,The Spices of India,6,October,2019,Shorts,1211,350.599,46.083,5.387,2877.868,107.487
+263,A Tour of Mumbai,25,August,2019,Long,1230,680.554,60.908,5.536,1198.347,143.724
+264,Life in a Small Indian Village,27,August,2020,Shorts,844,191.005,63.225,3.408,2272.061,191.094
+265,The Indian Independence Movement,17,September,2021,Long,1290,497.523,25.579,9.427,2411.216,149.464
+266,The Spices of India,7,November,2020,Long,298,878.814,54.307,8.885,3986.461,131.683
+267,A Culinary Tour of Delhi,17,May,2019,Shorts,1679,926.922,40.545,5.363,1758.95,183.931
+268,The Art of Indian Dance,18,October,2019,Long,275,615.018,56.929,0.776,2613.381,27.019
+269,The History of the Mughal Empire,23,December,2021,Shorts,1153,765.856,63.675,7.799,1474.428,88.687
+270,Discovering the Backwaters of Kerala,24,November,2021,Long,1704,958.109,16.75,0.719,1841.97,127.971
+271,The Indian Independence Movement,7,September,2019,Shorts,821,181.149,45.842,9.186,1273.73,33.057
+272,Exploring the Ganges River,14,January,2019,Shorts,576,978.028,69.624,4.053,857.774,27.789
+273,The Temples of South India,1,February,2020,Shorts,978,288.36,69.255,1.422,707.13,52.392
+274,Exploring the Ganges River,5,October,2021,Long,650,788.302,42.405,0.519,3599.925,89.107
+275,A Culinary Tour of Delhi,21,November,2021,Shorts,1616,796.558,13.205,6.51,739.364,192.476
+276,The Mysteries of the Himalayas,11,June,2020,Shorts,1314,947.51,15.735,5.371,1914.032,64.305
+277,A Journey through Rajasthan,17,July,2021,Shorts,1026,692.485,22.075,8.511,2430.045,141.434
+278,The Art of Indian Dance,13,December,2019,Shorts,1369,564.42,37.957,4.293,1887.396,36.237
+279,A Culinary Tour of Delhi,10,April,2019,Long,967,410.286,17.189,9.787,1011.556,65.235
+280,A Day in the Life of an Indian Farmer,18,June,2019,Shorts,1249,949.059,61.042,7.003,2553.926,75.307
+281,A Culinary Tour of Delhi,8,March,2021,Shorts,609,153.164,16.383,4.56,762.392,164.178
+282,The History of the Mughal Empire,21,November,2019,Shorts,1348,790.575,43.033,6.349,2382.517,134.25
+283,Exploring the Rann of Kutch,10,July,2021,Long,1229,508.644,40.73,2.645,979.342,23.352
+284,The Mysteries of the Himalayas,8,December,2019,Shorts,1184,814.047,50.445,3.192,1941.829,51.708
+285,A Day in the Life of an Indian Farmer,5,October,2020,Shorts,1226,965.516,41.737,3.109,1625.318,123.583
+286,Wildlife of the Sundarbans,17,December,2019,Shorts,1649,705.687,11.242,9.789,872.405,173.844
+287,A Day in the Life of an Indian Farmer,19,December,2021,Shorts,910,520.636,34.816,0.817,2071.117,172.731
+288,The Spices of India,2,December,2020,Shorts,851,683.243,33.484,6.724,3188.932,107.399
+289,A Journey through Rajasthan,7,February,2019,Long,246,368.697,10.267,6.866,3590.887,137.227
+290,Life in a Small Indian Village,4,February,2019,Long,699,117.069,39.699,7.477,2420.522,161.223
+291,Exploring the Ganges River,21,December,2021,Long,232,106.736,52.57,9.066,1083.411,44.813
+292,A Tour of Mumbai,15,June,2021,Long,1135,912.162,20.934,2.5,956.532,92.452
+293,The History of the Mughal Empire,1,May,2021,Long,1427,324.832,42.612,4.751,3053.041,88.702
+294,A Culinary Tour of Delhi,26,June,2019,Long,743,563.222,18.699,4.74,1932.738,141.079
+295,Exploring the Taj Mahal,25,July,2021,Shorts,379,379.269,40.21,9.413,1327.594,64.912
+296,Exploring the Taj Mahal,11,February,2021,Long,430,127.649,16.507,6.187,1137.342,79.949
+297,Wildlife of the Sundarbans,6,November,2019,Long,672,182.276,64.917,4.618,611.871,55.163
+298,The Temples of South India,21,November,2020,Long,300,810.447,31.449,1.831,1335.738,103.997
+299,The Mysteries of the Himalayas,7,October,2021,Shorts,810,684.422,64.261,3.107,878.879,114.926
+300,A Journey through Rajasthan,10,April,2020,Shorts,1173,201.297,12.569,8.187,1374.242,103.911
+301,The Spices of India,12,December,2020,Shorts,807,689.182,49.455,1.014,2457.226,32.527
+302,The Mysteries of the Himalayas,19,October,2020,Shorts,1149,250.524,65.504,9.763,3292.94,158.204
+303,The Indian Independence Movement,28,December,2019,Long,619,187.178,65.594,5.069,2192.486,23.172
+304,Discovering the Backwaters of Kerala,21,March,2019,Long,1069,659.523,30.544,9.548,1731.042,135.915
+305,Wildlife of the Sundarbans,11,September,2019,Long,300,353.982,62.454,0.963,858.344,124.373
+306,Discovering the Backwaters of Kerala,20,October,2019,Long,789,790.065,68.991,7.73,3085.147,82.656
+307,A Tour of Mumbai,24,June,2021,Long,1694,959.814,42.774,4.956,3309.192,154.777
+308,Wildlife of the Sundarbans,25,April,2021,Long,548,501.514,59.619,2.861,1472.72,85.32
+309,The Mysteries of the Himalayas,25,October,2019,Shorts,1689,126.634,22.831,4.781,987.575,78.757
+310,The Temples of South India,5,November,2020,Shorts,1569,202.253,63.511,4.324,1864.428,35.746
+311,A Day in the Life of an Indian Farmer,27,December,2020,Shorts,1241,124.46,40.888,1.672,2440.867,123.773
+312,Exploring the Rann of Kutch,1,April,2021,Shorts,222,726.175,22.289,8.999,1866.804,64.187
+313,A Journey through Rajasthan,7,August,2020,Shorts,413,947.727,69.196,4.338,2291.478,89.781
+314,Discovering the Backwaters of Kerala,14,December,2021,Long,540,850.632,39.978,5.531,3090.905,111.193
+315,Exploring the Ganges River,28,March,2020,Shorts,430,311.927,32.009,7.3,2803.25,34.966
+316,The Markets of Kolkata,13,April,2020,Long,235,584.959,33.509,8.278,1375.685,171.203
+317,The Spices of India,5,July,2020,Long,726,620.129,13.707,4.78,3616.255,105.544
+318,Discovering the Backwaters of Kerala,5,March,2019,Long,527,599.835,36.875,4.873,1184.527,191.096
+319,A Tour of Mumbai,12,October,2021,Long,1039,231.296,20.97,3.446,1783.916,144.227
+320,The Mysteries of the Himalayas,17,February,2019,Long,1182,844.235,46.563,5.48,3324.666,52.265
+321,Discovering the Backwaters of Kerala,25,February,2019,Long,1310,501.684,40.132,2.025,2905.299,81.903
+322,Exploring the Ganges River,27,April,2020,Long,1469,183.661,56.231,2.878,2656.862,174.956
+323,Bollywood: Behind the Scenes,6,March,2019,Shorts,925,492.025,52.224,1.374,3411.478,55.924
+324,A Tour of Mumbai,1,January,2020,Long,952,971.928,26.395,4.699,856.669,101.112
+325,A Culinary Tour of Delhi,13,September,2020,Shorts,482,419.679,20.66,3.339,800.119,193.183
+326,Exploring the Taj Mahal,10,September,2021,Long,1732,499.159,48.758,2.088,956.77,102.198
+327,The Temples of South India,3,September,2019,Long,584,524.55,46.968,9.806,1876.35,26.006
+328,The History of the Mughal Empire,24,July,2020,Shorts,598,385.556,69.393,9.894,692.144,111.304
+329,A Culinary Tour of Delhi,27,July,2021,Shorts,299,674.697,38.142,6.026,1414.379,196.476
+330,The Mysteries of the Himalayas,19,August,2020,Shorts,1392,197.218,14.29,9.889,3063.557,146.399
+331,A Journey through Rajasthan,1,December,2019,Long,330,731.047,11.512,9.777,796.349,186.492
+332,Discovering the Backwaters of Kerala,19,December,2020,Long,832,904.157,41.471,8.831,3594.611,91.705
+333,The Festivals of India,17,August,2021,Long,557,280.294,18.768,9.934,793.763,82.51
+334,A Culinary Tour of Delhi,19,November,2020,Long,1666,717.15,10.156,5.476,1626.866,199.979
+335,Exploring the Ganges River,21,December,2019,Shorts,925,402.591,58.324,5.346,1724.691,124.65
+336,The Indian Independence Movement,9,May,2021,Shorts,1710,979.97,66.432,8.919,2033.547,125.633
+337,The Festivals of India,11,August,2021,Shorts,1669,917.534,12.409,3.321,3625.915,30.881
+338,The Spices of India,15,November,2020,Shorts,1034,817.542,16.421,4.166,3603.823,43.641
+339,Exploring the Rann of Kutch,1,October,2021,Long,663,405.916,63.59,6.127,1227.277,130.007
+340,Exploring the Taj Mahal,21,April,2019,Shorts,402,296.492,42.105,9.566,852.674,27.339
+341,The Indian Independence Movement,7,November,2020,Shorts,368,735.823,66.716,1.027,2321.04,54.148
+342,Life in a Small Indian Village,13,January,2020,Long,1440,149.396,46.123,2.24,563.947,122.364
+343,A Day in the Life of an Indian Farmer,4,May,2020,Long,1189,405.122,36.536,0.952,3964.694,108.067
+344,Exploring the Ganges River,26,April,2020,Long,770,507.527,29.432,8.279,2806.868,193.898
+345,Traditional Indian Weddings,12,July,2020,Shorts,1221,282.188,21.597,3.999,3292.937,99.914
+346,A Journey through Rajasthan,27,March,2020,Shorts,1154,214.009,41.282,6.299,2172.779,75.637
+347,Traditional Indian Weddings,11,January,2019,Long,654,450.57,11.864,1.123,1276.253,149.717
+348,A Culinary Tour of Delhi,21,August,2020,Shorts,572,201.853,48.943,6.677,2592.914,95.929
+349,Discovering the Backwaters of Kerala,8,July,2019,Long,1596,509.985,24.858,7.984,2415.055,116.772
+350,The Mysteries of the Himalayas,27,November,2021,Long,804,387.899,52.795,6.264,3389.201,170.714
+351,A Day in the Life of an Indian Farmer,28,November,2021,Long,1689,674.872,69.593,6.826,2517.131,93.874
+352,The Indian Independence Movement,11,May,2020,Shorts,1015,112.404,54.275,0.986,1650.887,73.129
+353,The Temples of South India,3,October,2020,Shorts,1196,427.551,20.379,7.548,2430.906,150.416
+354,The Art of Indian Dance,10,January,2021,Shorts,1323,268.549,68.618,1.376,3269.58,123.422
+355,Exploring the Ganges River,21,December,2020,Shorts,590,619.56,69,6.86,2084.783,81.129
+356,Exploring the Taj Mahal,1,April,2021,Shorts,1172,807.699,47.873,7.783,701.707,42.127
+357,Traditional Indian Weddings,27,December,2020,Long,1632,138.713,11.469,6.901,2410.087,101.734
+358,Exploring the Ganges River,17,February,2020,Shorts,1300,595.526,52.985,9.486,3006.103,51.183
+359,A Journey through Rajasthan,2,April,2021,Long,927,848.262,23.372,1.384,2465.672,173.192
+360,Life in a Small Indian Village,28,July,2020,Shorts,1725,327.669,31.334,5.088,3481.106,196.798
+361,Traditional Indian Weddings,12,April,2020,Shorts,277,666.43,49.28,5.676,2558.652,89.787
+362,Exploring the Rann of Kutch,1,July,2019,Shorts,631,989.485,44.391,3.909,2100.791,104.076
+363,Exploring the Taj Mahal,17,November,2019,Long,574,807.056,67.812,8.018,2594.447,47.094
+364,The Mysteries of the Himalayas,9,February,2019,Long,1619,737.714,54.499,4.768,2456.933,24.435
+365,Traditional Indian Weddings,18,April,2019,Shorts,1024,831.649,53.79,8.466,3275.639,62.724
+366,A Tour of Mumbai,1,November,2019,Shorts,1456,757.238,44.735,5.397,3788.674,179.25
+367,A Tour of Mumbai,27,February,2020,Shorts,833,846.506,11.013,3.851,2453.289,69.148
+368,The Markets of Kolkata,1,April,2020,Long,845,848.899,47.259,5.136,1758.366,39.443
+369,A Journey through Rajasthan,12,March,2020,Long,1721,732.492,65.168,9.16,1529.463,59.22
+370,Traditional Indian Weddings,27,April,2020,Shorts,811,916.38,57.38,1.588,3639.867,199.273
+371,The Art of Indian Dance,25,June,2021,Shorts,471,298.282,39.155,1.323,2599.347,81.863
+372,Discovering the Backwaters of Kerala,19,November,2019,Shorts,810,896.241,48.628,2.592,565.824,36.415
+373,A Day in the Life of an Indian Farmer,26,June,2020,Shorts,404,992.399,28.557,0.516,2718.978,97.462
+374,The Spices of India,6,March,2019,Shorts,984,990.535,69.672,9.668,2951.134,157.613
+375,Exploring the Ganges River,21,December,2020,Shorts,435,823.147,22.232,2.538,3174.407,27.239
+376,A Journey through Rajasthan,1,August,2021,Long,916,324.842,45.156,9.051,2718.184,44.943
+377,The Temples of South India,16,July,2020,Long,792,334.036,68.159,8.69,2485.124,132.261
+378,Exploring the Ganges River,8,July,2019,Shorts,566,871.184,15.934,4.036,1543.622,59.862
+379,Exploring the Taj Mahal,24,July,2021,Long,464,764.309,30.508,3.861,2368.399,195.681
+380,Discovering the Backwaters of Kerala,9,May,2019,Long,1201,163.242,69.088,3.499,891.057,102.816
+381,Life in a Small Indian Village,25,May,2020,Long,386,230.913,44.105,2.972,3707.155,68.024
+382,A Tour of Mumbai,26,December,2020,Long,1776,518.034,52.474,0.581,894.068,155.527
+383,The History of the Mughal Empire,8,April,2020,Long,1573,296.237,14.794,6.69,530.679,171.542
+384,Exploring the Taj Mahal,27,June,2021,Long,1335,830.118,12.866,8.693,1784.154,141.165
+385,The Festivals of India,8,February,2019,Long,442,213.158,24.422,7.976,2011.22,174.116
+386,The Mysteries of the Himalayas,21,July,2021,Long,1137,393.126,65.417,9.786,3765.701,184.498
+387,Exploring the Taj Mahal,4,April,2021,Long,1371,515.848,10.904,5.53,1822.263,131.574
+388,The Temples of South India,4,September,2019,Shorts,1329,485.082,12.287,4.457,860.055,166.214
+389,The Festivals of India,7,October,2021,Long,606,512.186,40.61,4.636,1135.703,147.174
+390,Exploring the Rann of Kutch,14,November,2020,Long,1724,949.2,13.22,7.347,686.365,71.849
+391,The History of the Mughal Empire,14,March,2019,Long,1027,499.166,15.768,5.074,3811.809,100.994
+392,A Culinary Tour of Delhi,2,July,2019,Long,780,498.336,45.318,9.163,1379.645,138.703
+393,The Markets of Kolkata,1,September,2020,Shorts,1254,413.141,32.43,7.33,685.434,52.82
+394,Life in a Small Indian Village,22,May,2019,Shorts,568,318.876,16.934,4.274,1669.741,126.225
+395,The Indian Independence Movement,15,August,2019,Shorts,1686,616.865,14.62,4.682,1445.436,131.026
+396,The Mysteries of the Himalayas,28,September,2020,Long,871,515.635,57.229,5.567,1930.016,20.034
+397,Exploring the Rann of Kutch,17,September,2019,Long,738,170.64,62.587,9.992,2497.143,82.928
+398,Traditional Indian Weddings,17,October,2020,Shorts,560,175.999,61.013,4.084,1786.006,62.983
+399,The Indian Independence Movement,16,January,2019,Long,948,927.643,31.312,6.134,1795.581,36.14
+400,The Mysteries of the Himalayas,19,May,2021,Shorts,1522,714.063,43.826,7.163,2951.859,65.147
+401,The Mysteries of the Himalayas,22,January,2020,Shorts,1263,288.367,14.304,6.716,2007.293,45.986
+402,Bollywood: Behind the Scenes,14,November,2021,Shorts,537,574.286,40.102,3.068,807.375,85.924
+403,The History of the Mughal Empire,9,January,2021,Long,333,267.156,10.49,8.302,2403.498,105.778
+404,The History of the Mughal Empire,12,May,2020,Shorts,1120,174.407,18.11,7.454,1572.844,144.461
+405,The Markets of Kolkata,3,November,2021,Long,1173,612.81,65.485,6.44,3571.292,158.279
+406,The Festivals of India,10,May,2020,Long,1741,766.28,13.11,3.56,1936.452,191.683
+407,The Festivals of India,27,October,2021,Shorts,1080,694.1,40.826,3.622,2779.381,97.981
+408,Wildlife of the Sundarbans,20,August,2019,Shorts,1083,790.749,21.378,1.198,952.059,157.01
+409,The Markets of Kolkata,20,January,2019,Shorts,1597,769.233,61.355,0.861,2177.27,116.186
+410,Exploring the Rann of Kutch,3,November,2019,Shorts,604,994.973,40.018,4.745,1150.995,94.738
+411,A Journey through Rajasthan,13,December,2020,Long,1350,738.324,49.541,1.047,2202.411,96.146
+412,A Journey through Rajasthan,4,March,2020,Long,1545,287.518,56.686,9.914,3593.021,89.568
+413,Wildlife of the Sundarbans,26,January,2019,Shorts,391,152.035,18.625,4.263,2357.035,156.442
+414,A Day in the Life of an Indian Farmer,22,July,2020,Shorts,640,550.215,18.258,6.104,2912.41,73.513
+415,A Culinary Tour of Delhi,10,October,2021,Shorts,769,554.755,59.987,3.503,2556.443,70.022
+416,The Festivals of India,14,February,2021,Shorts,687,104.613,68.931,7.322,1559.708,35.308
+417,The History of the Mughal Empire,6,August,2021,Shorts,493,530.659,33.788,6.548,1571.155,72.923
+418,The Spices of India,12,February,2019,Long,495,413.826,37.701,5.251,910.741,75.687
+419,Exploring the Ganges River,13,September,2019,Shorts,1007,221.379,30.235,5.15,2819.734,55.001
+420,A Journey through Rajasthan,19,August,2020,Shorts,1387,492.939,63.989,5.177,538.558,130.456
+421,The Temples of South India,8,October,2021,Long,788,926.041,53.709,9.255,2059.618,87.906
+422,Bollywood: Behind the Scenes,2,July,2021,Shorts,1269,229.226,25.867,4.329,2212.331,127.554
+423,Traditional Indian Weddings,8,September,2020,Long,1107,772.07,46.149,2.35,1515.576,115.588
+424,Wildlife of the Sundarbans,13,October,2020,Long,991,550.959,14.99,4.417,2414.827,183.171
+425,Discovering the Backwaters of Kerala,8,November,2021,Shorts,440,940.642,29.524,3.15,2729.335,74.203
+426,A Tour of Mumbai,9,June,2020,Long,865,265.122,59.498,2.213,3231.101,58.424
+427,A Day in the Life of an Indian Farmer,17,January,2020,Shorts,1678,159.839,29.833,0.908,1185.804,33.729
+428,The Mysteries of the Himalayas,23,May,2019,Shorts,1507,199.063,54.807,1.738,901.775,86.659
+429,Traditional Indian Weddings,8,September,2019,Long,326,645.006,41.783,2.76,2085.554,77.185
+430,Exploring the Rann of Kutch,1,May,2019,Long,1260,298.402,27.941,2.36,553.721,112.828
+431,The Festivals of India,28,January,2021,Shorts,1310,100.522,20.213,6.53,2226.381,42.583
+432,Life in a Small Indian Village,17,February,2021,Shorts,787,205.642,23.678,8.324,2553.843,99.476
+433,A Culinary Tour of Delhi,1,March,2020,Shorts,1542,658.22,50.999,2.253,2861.732,75.73
+434,Bollywood: Behind the Scenes,24,September,2019,Long,819,659.929,18.296,1.071,1127.727,88.981
+435,Wildlife of the Sundarbans,7,March,2021,Shorts,1299,747.702,15.543,9.75,1011.401,43.977
+436,Discovering the Backwaters of Kerala,26,July,2019,Shorts,775,805.778,62.427,0.51,1319.849,104.042
+437,The Markets of Kolkata,11,January,2021,Shorts,1387,438.026,48.11,4.34,1454.275,173.994
+438,A Tour of Mumbai,24,January,2021,Long,818,205.472,11.192,9.457,2406.226,128.707
+439,Discovering the Backwaters of Kerala,13,February,2020,Shorts,602,949.372,14.844,7.219,1860.499,132.71
+440,A Journey through Rajasthan,6,October,2020,Long,1134,810.327,48.395,4.828,2243.364,188.038
+441,The History of the Mughal Empire,19,March,2020,Shorts,1496,405.722,51.981,5.844,3864.602,94.636
+442,The Art of Indian Dance,15,September,2020,Shorts,1275,636.749,10.784,6.803,1606.849,101.491
+443,The Indian Independence Movement,9,May,2020,Shorts,262,749.75,67.903,9.279,1242.186,67.192
+444,The Art of Indian Dance,26,November,2021,Long,1009,465.185,61.843,6.102,1547.701,90.529
+445,Traditional Indian Weddings,1,September,2019,Shorts,1109,926.078,30.08,2.675,1362.772,62.641
+446,Exploring the Taj Mahal,21,December,2019,Long,1506,527.008,36.66,8.73,2756.447,153.951
+447,Exploring the Rann of Kutch,4,April,2019,Shorts,1260,875.998,35.534,4.395,1768.518,130.923
+448,Wildlife of the Sundarbans,2,June,2019,Shorts,1376,147.135,51.385,6.404,2205.085,191.526
+449,Exploring the Ganges River,18,November,2019,Long,568,764.886,27.893,9.828,1928.831,147.91
+450,The Mysteries of the Himalayas,3,November,2019,Long,1076,545.997,53.378,3.299,584.452,93.133
